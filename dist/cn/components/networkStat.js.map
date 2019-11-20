@@ -1,0 +1,1 @@
+{"version":3,"file":"networkStat.js","sourceRoot":"","sources":["../../../src/cn/components/networkStat.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,WAAW,EAAE,OAAO;IACpB,YAAY,EAAE,IAAI;IAClB,KAAK,EAAE,QAAQ;IACf,SAAS,EAAE,MAAM;IACjB,KAAK,EAAE,MAAM;IACb,QAAQ,EAAE,IAAI;IACd,MAAM,EAAE,MAAM;IACd,MAAM,EAAE,MAAM;IACd,UAAU,EAAE,KAAK;IACjB,UAAU,EAAE,KAAK;IACjB,UAAU,EAAE,SAAS;CACtB,CAAA"}
