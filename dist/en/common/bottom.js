@@ -6,6 +6,7 @@ exports.default = {
     faq: 'FAQ',
     about_us: 'About us',
     news: 'Telegram',
+    ads: 'Advertising',
     credits: 'Credits'
 };
 //# sourceMappingURL=bottom.js.map

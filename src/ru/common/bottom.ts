@@ -4,5 +4,6 @@ export default {
   faq: 'FAQ',
   about_us: 'О проекте',
   news: 'Телеграм',
+  ads: 'Реклама',
   credits: 'Благодарности'
 }

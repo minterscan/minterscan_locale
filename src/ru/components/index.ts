@@ -1,3 +1,4 @@
+import ad from './ad'
 import txs from './txs'
 import auth from './auth'
 import cats from './cats'
@@ -13,6 +14,7 @@ import delegations from './delegations'
 import networkStat from './networkStat'
 
 export default {
+  ad,
   txs,
   auth,
   cats,

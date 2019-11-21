@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const tslib_1 = require("tslib");
+const ad_1 = tslib_1.__importDefault(require("./ad"));
 const txs_1 = tslib_1.__importDefault(require("./txs"));
 const auth_1 = tslib_1.__importDefault(require("./auth"));
 const cats_1 = tslib_1.__importDefault(require("./cats"));
@@ -15,6 +16,7 @@ const address_1 = tslib_1.__importDefault(require("./address"));
 const delegations_1 = tslib_1.__importDefault(require("./delegations"));
 const networkStat_1 = tslib_1.__importDefault(require("./networkStat"));
 exports.default = {
+    ad: ad_1.default,
     txs: txs_1.default,
     auth: auth_1.default,
     cats: cats_1.default,
