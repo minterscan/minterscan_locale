@@ -8,7 +8,7 @@ exports.default = {
     delegated: 'Делеговано',
     reserve: 'Резерв',
     volume: 'Емісія',
-    initialReserve: 'Початковий резев',
+    initialReserve: 'Початковий резерв',
     initialAmount: 'Початкова емісія',
     initialPrice: 'Початкова ціна',
     owner: 'Власник',

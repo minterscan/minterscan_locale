@@ -1,9 +1,9 @@
 export default {
   title: 'Гаманці',
-  address: 'Адрес',
+  address: 'Адреси',
   empty: 'Ви ще не добавили ні одного гаманця',
   howClaim1: `
-    Введіть ваш адрес і отримайте унікальний код:
+    Введіть вашу адресу і отримайте унікальний код:
   `,
   howClaim2: `
     <a href="https://console.minter.network/ru/wallet">В консолі</a>
