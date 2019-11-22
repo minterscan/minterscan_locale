@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Котики',
+    title: 'Mucke',
     emptyText: 'На этом адресе еще нет котиков 😔',
     emptyLink: 'Minter котики'
 };
