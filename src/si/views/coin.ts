@@ -1,0 +1,22 @@
+export default {
+  title: 'Kovance',
+  symbol: 'Simbol',
+  name: 'Opis',
+  crr: 'CRR',
+  delegated: 'Делегировано',
+  reserve: 'Резерв',
+  volume: 'Emisija',
+  initialReserve: 'Начальный резев',
+  initialAmount: 'Начальная эмиссия',
+  initialPrice: 'Начальная цена',
+  owner: 'Lastnik',
+  validator: 'Валидатор',
+  price: 'Cena',
+  karma: 'Karma',
+  metadataLink: 'Как изменить метаданные',
+  createdAt: 'Создана',
+  createdTx: 'Transakcija',
+  lifetime: 'Время жизни',
+  deletedAt: 'Zbrisana',
+  now: 'Now'
+}
