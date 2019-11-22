@@ -1,17 +1,17 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    blockchain: 'Блокчейн',
+    blockchain: 'Blockchain',
     blocks: 'Bloke',
     txs: 'Transakcije',
     profiles: 'Profile',
     coins: 'Kovance',
     validators: 'Potrjevalci',
-    delegators: 'Делегаторы',
-    calcs: 'Калькулятор',
-    cats: 'Котики',
-    whales: 'Киты',
+    delegators: 'Delegatorji',
+    calcs: 'Računalo',
+    cats: 'Mucke',
+    whales: 'Kiti',
     validator: 'Zen',
-    vote: 'Голосование'
+    vote: 'Glasovanje'
 };
 //# sourceMappingURL=navbar.js.map
