@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Делегаторы',
-    searchPlaceholder: 'Найти по адресу'
+    title: 'Delegatori',
+    searchPlaceholder: 'Najti naslov'
 };
 //# sourceMappingURL=delegators.js.map

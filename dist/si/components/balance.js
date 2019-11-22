@@ -6,7 +6,7 @@ exports.default = {
     value: 'Cena',
     karma: 'Karma',
     txs: 'Transakcije',
-    delegated: 'Делегировано',
-    includeDelegations: 'Включая делегированные'
+    delegated: 'Delegiarno',
+    includeDelegations: 'Vključno z delegiranimi'
 };
 //# sourceMappingURL=balance.js.map

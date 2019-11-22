@@ -3,17 +3,17 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     title: 'Denarnice',
     address: 'Naslov',
-    empty: 'Вы еще не добавили ни одного кошелька',
+    empty: 'Niste še dodali nobene denarnice',
     howClaim1: `
-    Введите ваш адрес и получите уникальный код:
+    Vpišite vaš naslov in dobite unikatno kodo:
   `,
     howClaim2: `
-    <a href="https://console.minter.network/ru/wallet">В консоли</a>
-    в поле "Сообщение" впишите полученный код и отправьте с этого адреса <b>1 MSCAN</b>
-    на 🍃 наш специальный адрес:
+    <a href="https://console.minter.network/ru/wallet">В rraziskovalcu</a>
+    v vrstici "Sporočilo" vpišite kodo in pošljite z tega naslova <b>1 MSCAN</b>
+    na 🍃 naš naslov:
   `,
     btnAdd: 'Dodaj',
-    btnObtainCode: 'Получить код',
-    myWallets: 'Мои Denarnice'
+    btnObtainCode: 'Pošlji kodo',
+    myWallets: 'Moje Denarnice'
 };
 //# sourceMappingURL=wallets.js.map

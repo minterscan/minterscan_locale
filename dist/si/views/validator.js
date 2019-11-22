@@ -1,15 +1,15 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Валидатор',
-    unnamed: 'Без названия',
-    ownerAddress: 'Адрес владельца',
-    rewardAddress: 'Адрес для наград',
+    title: 'Potrjevalec',
+    unnamed: 'Brerz imena',
+    ownerAddress: 'Naslov lastnika',
+    rewardAddress: 'Naslov za nagrrarde',
     placeByStake: 'место по стейку',
-    coin: 'Официальная монета',
-    website: 'Сайт',
+    coin: 'Urardni kovanec',
+    website: 'Spletna stran',
     slashes: 'Сгорания',
-    events: 'События',
-    missedBlocks: 'Пропущенные Bloke'
+    events: 'Dogodki',
+    missedBlocks: 'Zgrrešene Bloke'
 };
 //# sourceMappingURL=validator.js.map

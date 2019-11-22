@@ -7,10 +7,10 @@ exports.default = {
     marketCap: 'kapitalizacija',
     coins: 'Kovance',
     emission: 'Emisija',
-    uptime: 'Аптайм',
+    uptime: 'UpTime',
     status: 'Status omrrežja',
     validators: 'Potrjevalci',
-    candidates: 'кандидатов',
+    candidates: 'kandidatov',
     commission: 'Povprečna komisija'
 };
 //# sourceMappingURL=networkStat.js.map

@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Potrjevalci сети Minter',
+    title: 'Potrjevalci omreržja Minter',
     searchPlaceholder: 'Найти по имени или публичному ключу',
     intro: `
     Следующие {unlockCount} слота для валидаторов будут разBlokeрованы

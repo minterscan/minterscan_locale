@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Kovance сети Minter',
-    searchPlaceholder: 'Найти по символу или описанию',
-    cap: 'Капитализация'
+    title: 'Kovance omeržja Minter',
+    searchPlaceholder: 'Najti po simbolu ali opisu',
+    cap: 'Kapitalizacija'
 };
 //# sourceMappingURL=coins.js.map

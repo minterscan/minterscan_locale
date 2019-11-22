@@ -1,14 +1,14 @@
 export default {
-  blockchain: 'Blokchain',
+  blockchain: 'Blockchain',
   blocks: 'Bloke',
   txs: 'Transakcije',
   profiles: 'Profile',
   coins: 'Kovance',
   validators: 'Potrjevalci',
-  delegators: 'Делегаторы',
+  delegators: 'Delegatorji',
   calcs: 'Računalo',
-  cats: 'Котики',
-  whales: 'Киты',
+  cats: 'Mucke',
+  whales: 'Kiti',
   validator: 'Zen',
   vote: 'Glasovanje'
 }

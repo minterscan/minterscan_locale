@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Адрес',
-    copied: 'Скопировано!'
+    title: 'Naslov',
+    copied: 'Kopirarno!'
 };
 //# sourceMappingURL=address.js.map

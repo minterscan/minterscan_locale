@@ -1,7 +1,7 @@
 export default {
-  title: 'Minter eksplorer',
-  placeholder: 'Napišite naslov, blok, trarnsakcijo ali публичный ključ validatorja',
+  title: 'Minter Raziskovalec',
+  placeholder: 'Vpišite naslov, blok, tarnsakcijo ali javni ključ potrjevalca',
   submit: 'Najti',
-  actionButton: 'Мгновенный обмен BIP',
-  actionButtonDescription: 'при помощи BTC, ETH ali USDT'
+  actionButton: 'Takojšnja konvertacija BIP',
+  actionButtonDescription: 's pomočjo BTC, ETH ali USDT'
 }
