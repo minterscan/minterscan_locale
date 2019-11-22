@@ -1,17 +1,17 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Профили',
-    howFillProfile: 'Как заполнить профиль',
-    howBecomeVerified: 'Как пройти верификацию',
-    searchPlaceholder: 'Найти по адресу, имени или описанию',
-    filterAll: 'Все',
-    filterVerified: 'Верифицированные',
-    filterTypePersonal: 'Личности',
-    filterTypeBusiness: 'Проекты',
-    approve: 'Подтвердить',
-    decline: 'Отозвать',
+    title: 'Профілі',
+    howFillProfile: 'Як заповнити профіль',
+    howBecomeVerified: 'Як пройти верифікацію',
+    searchPlaceholder: 'Найти за адресою, іменем чи описом',
+    filterAll: 'Всі',
+    filterVerified: 'Верифіковані',
+    filterTypePersonal: 'Особи',
+    filterTypeBusiness: 'Проекти',
+    approve: 'Підтвердити',
+    decline: 'Відмінити',
     project: 'Проект',
-    edit: 'Редактировать'
+    edit: 'Редагувати'
 };
 //# sourceMappingURL=profiles.js.map

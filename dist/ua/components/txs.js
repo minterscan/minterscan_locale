@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Транзакции',
-    from: 'С',
-    to: 'На'
+    title: 'Транзакції',
+    from: 'З',
+    to: 'До'
 };
 //# sourceMappingURL=txs.js.map

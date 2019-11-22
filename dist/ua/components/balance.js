@@ -1,12 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Кошелек',
+    title: 'Гаманець',
     balance: 'Баланс',
-    value: 'Стоимость',
+    value: 'Ціна',
     karma: 'Карма',
-    txs: 'Транзакции',
-    delegated: 'Делегировано',
-    includeDelegations: 'Включая делегированные'
+    txs: 'Транзакції',
+    delegated: 'Делеговано',
+    includeDelegations: 'Включаючи делеговані'
 };
 //# sourceMappingURL=balance.js.map

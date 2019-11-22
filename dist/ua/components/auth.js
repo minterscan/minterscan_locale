@@ -1,10 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Добро пожаловать',
-    signIn: 'Войти',
-    signOut: 'Выйти',
-    account: 'Аккаунт',
-    signInGoogle: 'Войти с Google'
+    title: 'Вітаємо',
+    signIn: 'Ввійти',
+    signOut: 'Вийти',
+    account: 'Акаунт',
+    signInGoogle: 'Ввійти з Google'
 };
 //# sourceMappingURL=auth.js.map

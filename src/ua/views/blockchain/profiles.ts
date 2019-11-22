@@ -4,7 +4,7 @@ export default {
   howBecomeVerified: 'Як пройти верифікацію',
   searchPlaceholder: 'Найти за адресою, іменем чи описом',
   filterAll: 'Всі',
-  filterVerified: 'Верифікковані',
+  filterVerified: 'Верифіковані',
   filterTypePersonal: 'Особи',
   filterTypeBusiness: 'Проекти',
   approve: 'Підтвердити',

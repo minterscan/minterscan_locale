@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Награды',
-    perMinute: 'в минуту'
+    title: 'Нагороди',
+    perMinute: 'в хвилину'
 };
 //# sourceMappingURL=rewards.js.map

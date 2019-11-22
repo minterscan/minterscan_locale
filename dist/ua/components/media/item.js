@@ -1,19 +1,19 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Название',
-    icon: 'Ссылка на иконку',
-    www: 'Ссылка на сайт или канал',
-    description: 'Описание',
-    subscribers: 'подписчиков',
-    price: 'за 1 подписчика',
-    priceText: 'Цена за 1 подписчика',
+    title: 'Назва',
+    icon: 'Посилання на іконку',
+    www: 'Посилання на сайт чи канал',
+    description: 'Опис',
+    subscribers: 'підписників',
+    price: 'за 1 підписника',
+    priceText: 'Ціна за 1 підписника',
     priceCoin: 'Монета',
     priceValue: '1',
-    audience: 'Аудитория',
-    edit: 'Редактировать',
-    remove: 'Удалить',
-    submit: 'Сохранить',
-    cancel: 'Отменить'
+    audience: 'Аудиторія',
+    edit: 'Редагувати',
+    remove: 'Видалити',
+    submit: 'Зберегти',
+    cancel: 'Відмінити'
 };
 //# sourceMappingURL=item.js.map

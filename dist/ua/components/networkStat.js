@@ -1,16 +1,16 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    latestBlock: 'Последний блок',
-    transactions: 'Транзакции',
-    price: 'Цена BIP',
-    marketCap: 'капитализация',
-    coins: 'Монеты',
-    emission: 'Эмиссия',
+    latestBlock: 'Останній блок',
+    transactions: 'Транзакції',
+    price: 'Ціна BIP',
+    marketCap: 'капіталізація',
+    coins: 'Монети',
+    emission: 'Емісія',
     uptime: 'Аптайм',
-    status: 'Статус сети',
-    validators: 'Валидаторы',
-    candidates: 'кандидатов',
-    commission: 'Средняя комиссия'
+    status: 'Статус мережі',
+    validators: 'Валідатори',
+    candidates: 'кандидатів',
+    commission: 'Середня комісія'
 };
 //# sourceMappingURL=networkStat.js.map

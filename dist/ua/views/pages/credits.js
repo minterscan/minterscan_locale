@@ -1,12 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Благодарности',
+    title: 'Подяки',
     text: `
-    Иллюстрации, использованные на сайте, созданы Freepik -
+    Ілюстрації, використані на сайті, створені Freepik -
     <a href="https://www.freepik.com" target="_blank">www.freepik.com</a>
     <br>
-    Иконки используемые на сайте, также созданы Freepik —
+    Іконки використані на сайті, також створені Freepik —
     <a href="https://www.flaticon.com" target="_blank">www.flaticon.com</a>
   `
 };

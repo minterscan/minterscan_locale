@@ -2,6 +2,6 @@ export default {
   title: 'Вітаємо',
   signIn: 'Ввійти',
   signOut: 'Вийти',
-  account: 'Аккаунт',
+  account: 'Акаунт',
   signInGoogle: 'Ввійти з Google'
 }
