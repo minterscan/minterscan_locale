@@ -55,7 +55,7 @@ export default {
     <p>
       Advertising cost in
       <a href="https://t.me/minterscan" taget="_blank">russian channel</a>
-      — <b>100 MSCAN</b>. 
+      — <b>100 MSCAN</b>.
       Advertising cost in
       <a href="https://t.me/minterscan_en" taget="_blank">english channel</a>
       — <b>10 MSCAN</b>.
