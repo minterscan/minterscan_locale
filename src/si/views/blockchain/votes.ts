@@ -1,24 +1,21 @@
 export default {
-  title: 'Minter голосование #2',
-  subtitle: 'Голосование за начальную цену BIP',
+  title: 'Minter Vote #2',
+  subtitle: 'Vote for BIP initial price',
   text: `
-    <p>Minter сообщество голосует за новую цену BIP.
-    Текущий раунд предусматривает только два варианта:</p>
+    <p>Minter community votes for new BIP initial price. Current vote round propose only two variants:</p>
     <ul>
-      <li>Отправьте <b>"1"</b> если вы голосуете за цену $0.32,
-      как описано в генезисном блоке</li>
-      <li>Отправьте <b>"2"</b> если вы голосуете за новую цену,
-      голосование за которую начнется после релиза Minter 1.1.0</li>
+      <li>Send <b>"1"</b> if you vote for $0.32, as described in genesis block</li>
+      <li>Send <b>"2"</b> if you vote new price, that will be available after Minter 1.1.0 launch</li>
     </ul>
   `,
-  timesLeft: 'Осталось времени',
-  howToVote: 'Как голосовать',
+  timesLeft: 'Time left',
+  howToVote: 'How to Vote',
   howToVoteText: `
-    Отправьте любое количество
-    <a href="/coin/COIN" target="_blank">COIN</a> на свой кошелек.
-    Вставьте в сообщение к Transakcije желаемый вариант (описаны в предыдущем блоке).
+    Send any amount of
+    <a href="/coin/COIN" target="_blank">COIN</a> to yourself.
+    Put in message desired vote variant (described in left block).
   `,
-  votesFirst: '1й вариант:',
-  votesSecond: '2й вариант:',
-  result: 'Результаты'
+  votesFirst: '1st option:',
+  votesSecond: '2nd option:',
+  result: 'Results'
 }

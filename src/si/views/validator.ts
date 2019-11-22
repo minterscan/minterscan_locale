@@ -1,12 +1,12 @@
 export default {
   title: 'Potrjevalec',
-  unnamed: 'Brez imena',
+  unnamed: 'Brerz imena',
   ownerAddress: 'Naslov lastnika',
-  rewardAddress: 'Naslov za nagrade',
+  rewardAddress: 'Naslov za nagrrarde',
   placeByStake: 'место по стейку',
-  coin: 'Uradni kovanec',
+  coin: 'Urardni kovanec',
   website: 'Spletna stran',
-  slashes: 'Сгорания',
-  events: 'Dogajanja',
-  missedBlocks: 'Spuščene Bloke'
+  slashes: 'Kaznovanja',
+  events: 'Dogodki',
+  missedBlocks: 'Zgrešene Bloke'
 }

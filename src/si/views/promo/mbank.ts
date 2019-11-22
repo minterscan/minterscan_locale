@@ -1,5 +1,5 @@
 export default {
   title: `
-    будет запущен в течение
+    will be launched in
   `
 }

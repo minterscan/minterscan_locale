@@ -1,19 +1,19 @@
 export default {
-  lastYearMale: 'Чем занимался последний год',
-  lastYearFemale: 'Чем занималась последний год',
-  nextMonth: 'Чем планирую заняться в ближайщий месяц',
-  willSpendMale: 'Как бы потратил 100 000 BIP?',
-  willSpendFemale: 'Как бы потратила 100 000 BIP?',
-  whyCrypto: 'Что больше всего нравится в криптовалютах?',
-  vote: 'Проголосовать',
-  thisWeek: 'За эту неделю',
-  voteAddress: 'Адрес для голосования',
-  howToVoteTitle: `Как проголосовать`,
+  lastYearMale: 'What did the last year',
+  lastYearFemale: 'What did the last year',
+  nextMonth: 'What are you planning to do in the next month?',
+  willSpendMale: 'How would you spend 100 000 BIP?',
+  willSpendFemale: 'How would you spend 100 000 BIP?',
+  whyCrypto: 'What do you like most about cryptocurrency?',
+  vote: 'Vote',
+  thisWeek: 'This week',
+  voteAddress: 'Address for voting',
+  howToVoteTitle: `How to vote`,
   howToVoteText0: `
-    Чтобы проголосовать за <b>{name}</b>, отправьте любое количество любых монет на адрес
+    To vote for {name}, send any amount of any coin to
   `,
   howToVoteText1: `
-    <b>У каждого участника шоу свой уникальный адрес</b>. <br>
-    Внимательно следите за тем, на какой адрес отправляете деньги.
+    <b>Each participant of a show has an unique address</b>. <br>
+    Look carefully at the address to send money.
   `
 }

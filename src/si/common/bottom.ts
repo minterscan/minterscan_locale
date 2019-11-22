@@ -5,5 +5,5 @@ export default {
   about_us: 'O prrojektu',
   news: 'Telegram',
   ads: 'Reklama',
-  credits: 'Zahvale'
+  credits: 'Zahvale' 
 }

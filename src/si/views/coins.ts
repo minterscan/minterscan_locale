@@ -1,5 +1,5 @@
 export default {
-  title: 'Kovance сети Minter',
-  searchPlaceholder: 'Найти по символу или описанию',
-  cap: 'Капитализация'
+  title: 'Kovance omrežja Minter',
+  searchPlaceholder: 'Najti po simbolu ali opisu',
+  cap: 'Kapitalizacija'
 }

@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     title: `
-    будет запущен в течение
+    will be launched in
   `
 };
 //# sourceMappingURL=mbank.js.map

@@ -1,3 +1,3 @@
 export default {
-  title: 'Uporabniški račun'
+  title: 'Uporabniški račun' 
 }

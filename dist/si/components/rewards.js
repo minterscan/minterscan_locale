@@ -4,4 +4,4 @@ exports.default = {
     title: 'Nagrade',
     perMinute: 'v Minuto'
 };
-//# sourceMappingURL=rewards.js.map
+//#  sourceMappingURL=rewards.js.map

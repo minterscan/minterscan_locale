@@ -1,18 +1,18 @@
 export default {
-  title: 'Метаданные валидатора',
-  disclaimer: `Все данные о валидаторе, включая метаданные, хранятся в блокчейне`,
-  text1: `Отправьте транзакцию на адрес:`,
-  text2: `Поле "Message" заполните в следующем формате:`,
+  title: 'Validator Metadata',
+  disclaimer: `All validator data, including metadata, is stored in the blockchain`,
+  text1: `Send transaction to address:`,
+  text2: `"Message" field must be filled like:`,
   text3: `
-    Транзакция должна быть отправлена с адреса владельца. Количество BIP может быть любым.
-    Чтобы поменять данные, достаточно отправить новую транзакцию в таком же формате и с нужными изменениями.
-    Обновление данных — раз в 10 Minut.</br>
+    Transaction must be sent from owner address. Amount of BIP can be any.
+    To change metadata just send a new transaction filled the same format with desired changes.
+    Metadata updates every 10 minutes.</br>
   `,
   text4: `{
   "PK": "Mp...",
-  "title": "Ваше клевое название",
-  "www": "URL сайта",
-  "icon": "URL иконки",
-  "description": "Ваше клевое описание"
+  "title": "Your cool title",
+  "www": "Website URL",
+  "icon": "Icon URL",
+  "description": "Your cool description"
 }`
 }

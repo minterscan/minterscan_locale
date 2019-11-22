@@ -9,4 +9,4 @@ exports.default = {
     ads: 'Reklama',
     credits: 'Zahvale'
 };
-//# sourceMappingURL=bottom.js.map
+//#  sourceMappingURL=bottom.js.map

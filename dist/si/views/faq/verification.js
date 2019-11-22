@@ -1,39 +1,39 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Верификация профиля',
-    labelTrue: 'Профиль подтвержден',
-    labelFalse: 'Профиль не подтвержден',
+    title: 'Profile Verification',
+    labelTrue: 'Profile is verified',
+    labelFalse: 'Profile is not verified',
     text0: `
-    Верифицированный профиль — это знак того, что кошелек действительно принадлежит тому, кто указан в профиле.
-    Если вы видите профиль, в котором написано, что он принадлежит Евгению Гордееву,
-    но там нет зеленого бейджика, который выглядит вот так:
+    A verified profile is a proof that the wallet really belongs to the person presented in the profile.
+    If you see a profile in which it is written that it belongs to Evgeny Gordeev,
+    but there is no green badge that looks like this:
   `,
     text1: `
-    то скорее всего этот кошелек не принадлежит Евгению.
-    Если человек или сервис просит вас отправить ему деньги и представляется кем-то,
-    но не имеет статуса верифицированного аккаунта — то скорее всего это мошенник.
+    then most likely this wallet does not belong to Evgeny.
+    If a person or service asks you to send him money and seems to be someone,
+    but does not have the status of a verified account - then most likely it is a fraud.
   `,
     text2: `
-    Чтобы получить верифицированный аккаунт, пожалуйста <a href="/faq/profile">заполните профиль</a> и
-    <a href="https://t.me/minterscan_verification_bot" target="_blank">напишите боту</a>
-    и мы свяжемся с вами в короткий срок.
+    To get a verified account, please <a href="/faq/profile">fill information about profile</a> and
+    <a href="https://t.me/minterscan_verification_bot" target="_blank">talk with bot</a>
+    and we will contact you shortly.
   `,
     text3: `
-    <p><b>Важное уточнение</b></p>
+    <p><b>Important clarification</b></p>
     <p>
-    Данные профиля обновляются автоматически, это может сделать владелец кошелька в любое время при помощи специальной
-    Transakcije. Как это сделать <a href="/faq/profile">написано здесь</a>.
+    Profile data is updated automatically, the wallet owner can do this at any time using a special
+    transactions. You can find detailed manual <a href="/faq/profile">on this page</a>.
     </p>
     <p class="has-text-danger">
-      Каждый раз, когда вы обновляете профиль, статус верификации нужно получать заново.
+      Each time you update a profile, the verification status must be retrieved again.
     </p>
     <p>
-      Почему? Представим простую ситуацию.  Некто Василий Пупкин получил верифицированный аккаунт на Minterscan.
-      Затем он меняет свои данные и указывает что его зовут Евгений Гордеев. Проблема!
-      Теперь у Василия верифицированный аккаунт, в котором указано, что это Евгений, но Евгением он не является.
-      Поэтому, каждый раз, когда данные профиля изменились, статус верификации будет обнуляться, во избежание
-      возможности мошенничества.
+      Why? Imagine a simple situation. Someone John Doe received a verified account on Minterscan.
+      Then he changes his profile data and set that his name now is Evgeny Gordeev. Problem!
+      Now John has a verified account in which it is indicated that it is Evgeny, but he is not Evgeny.
+      Therefore, each time the profile data is changed, the verification status will be reset to avoid
+      fraud opportunities.
     </p>
   `
 };

@@ -1,32 +1,32 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Калькулятор монет Minter',
-    amountPlaceholder: 'Количество',
-    searchPlaceholder: 'Монета',
-    forExample: 'Например',
-    error: 'Неверное количество или монета не существует',
-    modalTitle: 'Почему данные калькулятора не совпадают с реальными?',
+    title: 'Minter Coins Calculator',
+    amountPlaceholder: 'Amount',
+    searchPlaceholder: 'Coin',
+    forExample: 'For example',
+    error: 'Amount is wrong or coin is not exists',
+    modalTitle: 'Why calculated result is not match with real data?',
     modalText0: `
-    <p>
-      Данные калькулятора всегда будут неточными.
-      Фактический размер награды может отличаться в большую или меньшую сторону:
-    </p>
+  <p>
+    Calculator data will always be inaccurate.
+    The actual reward amount may vary up or down:
+  </p>
 
-    <ul>
-      <li>
-        Размер наград зависит от количества делегированных монет всеми участниками сети Minter.
-        Невозможно предсказать сколько монет будет делегировано каждый день.
-        Постоянная ределегация <b>уменьшает</b> фактический размер награды по сравнению с идеальным результатом.
-      </li>
-      <li>
-        Размер наград зависит от комиссий, которые платят все участники сети Minter.
-        Каждая транзакция, каждое сообщение в Transakcije, каждый выпуск монет —
-        все это требует оплаты комиссии.
-        Невозможно предсказать сколько транзакций будет отправлено каждый день.
-        Комиссия с транзакций  <b>увеличивает</b> фактический размер награды по сравнению с идеальным результатом.
-      </li>
-    </ul>
-  `
+  <ul>
+    <li>
+      The amount of the rewards depends on the number of delegated coins by all members of the Minter network.
+      It is impossible to predict how many coins will be delegated every day.
+      Permanent redelegation <b>reduces</b> the actual amount of the reward compared to the ideal result.
+    </li>
+    <li>
+      The amount of the rewards depends on the fees paid by all members of the Minter network.
+      Every transaction, every message in a transaction, every coin creation -
+      all this requires payment of commission.
+      It is impossible to predict how many transactions will be sent every day.
+      A transactions' commissions  <b>increases</b> the actual amount of the reward compared to the ideal result.
+    </li>
+  </ul>
+`
 };
 //# sourceMappingURL=calc.js.map

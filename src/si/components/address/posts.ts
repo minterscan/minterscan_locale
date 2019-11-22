@@ -1,5 +1,5 @@
 export default {
   title: 'Ping',
-  emptyText: 'На этом адресе еще нет сообщений 😔',
+  emptyText: 'Na tem naslovu ni še sporočil 😔',
   emptyLink: 'Ping Me!'
 }

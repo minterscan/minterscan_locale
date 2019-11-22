@@ -1,4 +1,4 @@
 export default {
   title: 'Naslov',
-  copied: 'Kopirano!'
+  copied: 'Kopirano!' 
 }

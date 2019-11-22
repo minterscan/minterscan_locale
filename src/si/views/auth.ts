@@ -1,3 +1,3 @@
 export default {
-  title: 'Prijava'
+  title: 'Prijava' 
 }

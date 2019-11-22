@@ -1,16 +1,16 @@
 export default {
   title: 'Denarnice',
   address: 'Naslov',
-  empty: 'Вы еще не добавили ни одного кошелька',
+  empty: 'Niste še dodali nobene denarnice',
   howClaim1: `
-    Введите ваш адрес и получите уникальный код:
-  `,
+  Vpišite vaš naslov za pridobitev unikatne kode:
+`,
   howClaim2: `
-    <a href="https://console.minter.network/ru/wallet">В консоли</a>
-    в поле "Сообщение" впишите полученный код и отправьте с этого адреса <b>1 MSCAN</b>
-    на 🍃 наш специальный адрес:
-  `,
-  btnAdd: 'Dodati',
-  btnObtainCode: 'Получить код',
-  myWallets: 'Moje denarnice'
+  <a href="https://console.minter.network/ru/wallet">В raziskovalcu</a>
+  v vrstici "Sporočilo" vpišite unikatno kodo in pošljite s tega naslova <b>1 MSCAN</b>
+  na 🍃 naš naslov:
+`,
+  btnAdd: 'Dodaj',
+  btnObtainCode: 'Pošlji kodo',
+  myWallets: 'Moje Denarnice'
 }

@@ -12,7 +12,7 @@ exports.default = {
     priceValue: '1',
     audience: 'Občinstvo',
     edit: 'Uredi',
-    remove: 'Zbriši',
+    remove: 'Izbriši',
     submit: 'Shrani',
     cancel: 'Prekliči'
 };

@@ -1,21 +1,22 @@
 export default {
-  title: 'Метаданные монеты',
-  disclaimer: 'Все данные о монете, включая метаданные, хранятся в блокчейне',
-  text0: 'Заполните форму, скопируйте весь текст и вставьте его в поле <b>Message</b> в Minter консоли',
-  text1: 'Нажмите чтобы скопировать',
-  text2: 'После этого отправьте <b>1 MSCAN</b> на адрес:',
+  title: 'Coin metadata',
+  disclaimer: 'All data, including metadata, is stored in the blockchain',
+  text0:
+    'Fill the form, copy text and paste it to<b>Message</b> field in Minter console',
+  text1: 'Click to copy',
+  text2: 'After this send <b>1 MSCAN</b> to wallet:',
   text3: `
-    Транзакция должна быть отправлена с адреса, с которого создавалась монета.
-    Чтобы поменять данные, достаточно отправить новую транзакцию в таком же формате и с нужными изменениями.
-    Данные обновляются мгновенно.
+    Transaction must be sent from the coin creator' wallet.
+    For update just send a new transaction in the same format with according changes.
+    Data changes immediately.
   `,
   meta: {
-    symbol: 'Символ',
-    name: 'Короткое описание монеты',
-    icon: 'Прямая ссылка на иконку, JPG, PNG или GIF',
-    www: 'Ссылка на сайт проекта, https://...',
-    wp: 'Ссылка на белую бумагу, https://...',
-    description: 'Описание проекта или любая другая полезная информация'
+    symbol: 'Symbol',
+    name: 'Coin short description',
+    icon: 'Direct link to icon, JPG, PNG or GIF',
+    www: 'Link to website, https://...',
+    wp: 'Link to Whitepaper, https://...',
+    description: 'Project description or any other useful information'
   },
   social: {
     em: 'Email',

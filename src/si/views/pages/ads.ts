@@ -1,23 +1,23 @@
 export default {
-  title: 'Размещение рекламы',
+  title: 'Advertising',
   text1: `
-    <p>🍃<b>Minterscan</b> — это самый популярный эксплорер сети Minter.</p>
-    <p>Больше 130 000 просмотров и свыше 9 000 уникальных пользователей в месяц.</p>
+    <p>🍃<b>Minterscan</b> is a most popular Minter blockchain explorer.</p>
+    <p>Over 130 000 page views and more than 9 000 unique visitors per month.</p>
     <p>
-      Minterscan — это возможность для проектов и команд разработчиков
-      рассказать о себе десяткам тысяч пользователей Минтера через спонсорский контент.
-      Обратитесь к аудитории Minter с помощью ненавязчивой рекламы,
-      отображаемой в верхней части страниц Minterscan.
+      Advertising on Minterscan is an opportunity for projects and teams
+      to reach tens of thousands Minter users through sponsored content.
+      Attract Minter audience attention with the unobtrusive ads 
+      displayed at the top of Minterscan pages.
     </p>
     <p>
-      Чтобы разместить рекламу вашего проекта, пожалуйста, 
-      <a href="{url}">заполните форму</a>.
+      To advertise your project, please
+      <a href="{url}">fill the form</a>.
     </p>
   `,
   text2: `
     <p>
-      Мы не рекламируем проекты сомнительного качества и оставляем за собой
-      право в отказе от размещения рекламы без объяснения причин.
+      We do not advertise poor quality projects and reserve
+      the right to refuse to advertise without giving reasons.
     </p>
   `
 }

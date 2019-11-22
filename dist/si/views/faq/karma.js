@@ -3,42 +3,43 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     title: 'KARMA',
     disclaimer: `
-    <b>KARMA</b> от валидаторов — это знак качества проекта.
-    Наличие кармы показывает поддержку от валидаторов с учетом их силы.
-    Для реализации механизма кармирования все Potrjevalci получили карму от команды Minter.
+    <b>KARMA</b> from validators is a sign of the quality of the project.
+    The presence of karma shows support from validators based on their voting power.
+    To implement the karming mechanism, all validators received karma from the Minter team.
   `,
     text0: `
-    Передача кармы от валидатора монете осуществляется валидатором путем отправки Transakcije:
+    The transfer of karma from the validator to the coin is carried out
+    by the validator by sending the transaction:
     <ul>
-      <li>Отправка должна происходить с кошелька, на который начисляются реварды валидатора</li>
-      <li>Сумма должна быть не менее 0.01 KARMA</li>
+      <li>Transaction must be sent from the validator's rewards address</li>
+      <li>Amount must be at least 0.01 KARMA</li>
       <li>
-        В комментарии должен быть указан текст <b>Karma $тикер</b>, например
+        Comment should contain the text <b>Karma $ticker</b>, for example,
         <a
           target="_blank"
           href="/tx/Mtfcda1bc65d9d0bb53612cebd21375ac4e22f0143a2281b3bedfe263b6af69a85">
           Karma MSCAN
         </a>
       </li>
-      <li>Транзакцию нужно отправлять на кошелек создателя монеты</li>
+      <li>Transaction must be sent to the coin creator's wallet</li>
     </ul>
   `,
     text1: `
-    Валидатор ☯️ <b>Zen</b> начисляет карму проектам, которые соотвествуют следующим правилам:
+    ☯️ <b>Zen</b> validator provide karma for projects that meet the following rules:
     <ul>
-      <li>Проект имеет отношение к экосистеме Minter</li>
+      <li>The project is related to the Minter ecosystem</li>
       <li>
-        Проект является уникальным, не является копией существующего проекта.
-      </li>
+        The project should be unique, not a copy of an existing project.
+      </li>
       <li>
-        Проект приносит пользу экосистеме Minter,
-        имеет большую аудиторию и решает насущную проблему
-      </li>
+        The project benefits the Minter ecosystem,
+        has a huge audience and solves an actual problem
+      </li>
       <li>
-        Проект представляет собой сервис, бот, приложение или сайт.
-        Не подходит под это определение сервис на стадии идеи, просто отдельно выпущенная монета и так далее
-      </li>
-    </ul>
+        A project is a service, bot, application or site.
+        Service at the idea stage, just a separately issued coin and so on  does not fit this definition.
+      </li>
+    </ul>
   `
 };
 //# sourceMappingURL=karma.js.map

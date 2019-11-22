@@ -1,18 +1,21 @@
 "use strict";
-// tslint:disable:max-line-length
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Проект 10 BIP',
-    subtitle: 'Что будет, если инвестировать каждый день по 10 BIP?',
+    title: '10 BIP Challenge',
+    subtitle: 'What happens if you invest 10 BIP every day?',
     text: `
-    Мы создали экспериментальный портфель, в котором каждый день будем на <b>10 BIP</b> покупать одну
-    из кастомных монет сети Minter.
-    Мы вдохновились историей Евгения Гордеева и его проекта <a href="https://decenter.org/en/52btc-or-1m-with-bitcoin-in-a-year" target="_blank">#52BTC</a>.
+    We have created an experimental portfolio in which we are going to buy one
+    of the custom coins of the Minter network for 10 BIP every day.
+    We were inspired by the story of Evgeny Gordeev and his
+    <a href="https://decenter.org/en/52btc-or-1m-with-bitcoin-in-a-year" target="_blank">
+    #52BTC
+    </a> project.
     <br><br>
-    Будем рады вашей поддержке, <a href="tg://resolve?domain=experiment10bip" target="_blank">подписывайтесь на канал</a>!
+    We will be glad to your support,
+    <a href="tg://resolve?domain=experiment10bip" target="_blank">subscribe to the channel</a>!
   `,
-    duration: 'Эксперимент длится:',
-    initialBalance: 'Начальный баланс',
-    nowBalance: 'Сейчас'
+    duration: 'The challenge lasts:',
+    initialBalance: 'Initial balance',
+    nowBalance: 'Now'
 };
 //# sourceMappingURL=tenbip.js.map

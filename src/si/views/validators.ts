@@ -1,13 +1,13 @@
 export default {
-  title: 'Potrjevalci сети Minter',
-  searchPlaceholder: 'Найти по имени или публичному ключу',
+  title: 'Potrjevalci omreržja Minter',
+  searchPlaceholder: 'Najti po imenu ali javnemu ključu',
   intro: `
-    Следующие {unlockCount} слота для валидаторов будут разблокированы
-    через <b>{unlockBlocksLeft}</b> блоков (~{unlockTimeLeft})
-  `,
-  link1: `Как обновить метаданные`,
-  link2: `Как работает рейтинг`,
-  legend1: 'валидаторов | вадидатор | валидатора | валидаторов',
-  legend2: 'кандидатов онлайн | кандидат онлайн | кандидата онлайн | кандидатов онлайн',
-  legend3: 'кандидатов оффлайн | кандидат оффлайн | кандидата оффлайн | кандидатов оффлайн'
+  Naslednje {unlockCount} pozicije za potrjevalce bojo odblokirane
+  čez <b>{unlockBlocksLeft}</b> blokov (~{unlockTimeLeft})
+`,
+  link1: `Kako posodobiti metapodatke`,
+  link2: `Kako delujejo ocene`,
+  legend1: 'porjevalcev | porjevalec | porjevalca | porjevalcev',
+  legend2: 'kandidatov online | kandidat online | kandidata online | kandidatov online',
+  legend3: 'kandidatov offline | kandidat offline | kandidata offline | kandidatov offline'
 }

@@ -6,4 +6,4 @@ exports.default = {
     uid: 'ID uporabnika',
     role: 'Vloga'
 };
-//# sourceMappingURL=settings.js.map
+//#  sourceMappingURL=settings.js.map

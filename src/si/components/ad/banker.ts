@@ -1,5 +1,5 @@
 export default {
   name: 'Bip Banker',
-  text: 'мгновенный обмен BIP',
-  actionText: 'Обменять'
+  text: 'takojšnja konvertacija BIP',
+  actionText: 'Konvertiraj'
 }

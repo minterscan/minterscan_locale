@@ -1,4 +1,4 @@
 export default {
   title: 'Nagrade',
-  perMinute: 'в Minuto'
+  perMinute: 'в Minuto' 
 }

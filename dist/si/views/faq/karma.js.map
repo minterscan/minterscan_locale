@@ -1,1 +1,1 @@
-{"version":3,"file":"karma.js","sourceRoot":"","sources":["../../../../src/ru/views/faq/karma.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,OAAO;IACd,UAAU,EAAE;;;;GAIX;IACD,KAAK,EAAE;;;;;;;;;;;;;;;GAeN;IACD,KAAK,EAAE;;;;;;;;;;;;;;;;GAgBN;CACF,CAAA"}
+{"version":3,"file":"karma.js","sourceRoot":"","sources":["../../../../src/en/views/faq/karma.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,OAAO;IACd,UAAU,EAAE;;;;GAIX;IACD,KAAK,EAAE;;;;;;;;;;;;;;;;GAgBN;IACD,KAAK,EAAE;;;;;;;;;;;;;;;;GAgBN;CACF,CAAA"}

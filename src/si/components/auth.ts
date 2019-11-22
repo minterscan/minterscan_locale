@@ -3,5 +3,5 @@ export default {
   signIn: 'Prijava',
   signOut: 'Odjava',
   account: 'Račun',
-  signInGoogle: 'Prijava z Google'
+  signInGoogle: 'Prijava z Google' 
 }

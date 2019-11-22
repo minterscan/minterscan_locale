@@ -1,3 +1,3 @@
 export default {
-  title: 'Transakcija'
+  title: 'Transakcija' 
 }

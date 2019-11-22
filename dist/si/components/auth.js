@@ -7,4 +7,4 @@ exports.default = {
     account: 'Uporabniški račun',
     signInGoogle: 'Prijava z Google'
 };
-//# sourceMappingURL=auth.js.map
+//#  sourceMappingURL=auth.js.map

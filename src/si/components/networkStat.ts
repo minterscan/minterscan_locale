@@ -5,9 +5,9 @@ export default {
   marketCap: 'kapitalizacija',
   coins: 'Kovance',
   emission: 'Emisija',
-  uptime: 'Аптайм',
+  uptime: 'UpTime',
   status: 'Status omrežja',
   validators: 'Potrjevalci',
-  candidates: 'кандидатов',
+  candidates: 'kandidatov',
   commission: 'Povprečna komisija'
 }

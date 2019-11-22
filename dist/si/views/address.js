@@ -4,4 +4,4 @@ exports.default = {
     title: 'Naslov',
     copied: 'Kopirarno!'
 };
-//# sourceMappingURL=address.js.map
+//#  sourceMappingURL=address.js.map

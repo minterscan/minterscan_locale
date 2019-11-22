@@ -1,14 +1,14 @@
 export default {
-  title: 'ikone profilov',
+  title: 'Account Icons',
   disclaimer: `
-    Na Minterscan vsak naslov ima svojo ikono,
-    odvisno od količine kovancev v denarnici
+    Each address on Minterscan has it own icon,
+    depending on the wallet balance
   `,
-  text0: `<b>Delfin</b> – 100 и более миллионов BIP, то есть 1% сети Minter и более!`,
-  text1: `<b>Кит</b> – более 10 миллионов BIP, то есть 0.1% от конечной эмиссии`,
-  text2: `<b>Акула</b> – миллион и более BIP`,
-  text3: `<b>Тропическая рыбка</b> – от 100 тысяч BIP`,
-  text4: `<b>Краб</b> – 10 и более тысяч BIP`,
-  text5: `<b>Ракушка</b> – от 1000 до 10000  BIP`,
-  text6: `<b>Креветка</b> – аккаунт с балансом менее 1000 BIP`
+  text0: `<b>Dolphin</b> – 100 million BIP and more, that's 1% or more percent of whole Minter network!`,
+  text1: `<b>Whale</b> – 10 million BIP and more, or 0.1% from total emission`,
+  text2: `<b>Shark</b> – 1 million BIP and more`,
+  text3: `<b>Tropical fish</b> – from 100 thousands BIP`,
+  text4: `<b>Crab</b> – from 10 thousand BIP`,
+  text5: `<b>Shell</b> – from 1000 to 10000 BIP`,
+  text6: `<b>Shrimp</b> – account with balance less than 1000 BIP`
 }

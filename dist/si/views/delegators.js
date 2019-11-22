@@ -4,4 +4,4 @@ exports.default = {
     title: 'Delegatori',
     searchPlaceholder: 'Najti naslov'
 };
-//# sourceMappingURL=delegators.js.map
+//#  sourceMappingURL=delegators.js.map

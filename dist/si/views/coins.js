@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Kovance omeržja Minter',
+    title: 'Kovance omrežja Minter',
     searchPlaceholder: 'Najti po simbolu ali opisu',
     cap: 'Kapitalizacija'
 };

@@ -1,5 +1,5 @@
 export default {
-  title: 'Котики',
-  emptyText: 'На этом адресе еще нет котиков 😔',
-  emptyLink: 'Minter котики'
+  title: 'Mucke',
+  emptyText: 'Na tem naslovu ni še muck 😔',
+  emptyLink: 'Minter mucke'
 }

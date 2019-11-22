@@ -39,7 +39,7 @@ exports.default = {
     bytes: 'bajt',
     coin: 'Kovanec',
     coins: 'Kovance',
-    million: 'млн',
+    million: 'mio',
     and: 'in',
     check: 'Račun',
     checkIssuer: 'Izdajatelj',

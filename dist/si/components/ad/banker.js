@@ -5,4 +5,4 @@ exports.default = {
     text: 'takojšnja konvertacija BIP',
     actionText: 'Zamenjaj'
 };
-//# sourceMappingURL=banker.js.map
+//#  sourceMappingURL=banker.js.map

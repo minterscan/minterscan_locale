@@ -5,4 +5,4 @@ exports.default = {
     emptyText: 'Na tem naslovu ni še sporočil 😔',
     emptyLink: 'Ping Me!'
 };
-//# sourceMappingURL=posts.js.map
+//#  sourceMappingURL=posts.js.map

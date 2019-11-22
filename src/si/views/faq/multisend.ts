@@ -2,67 +2,67 @@ export default {
   title: 'Minter Multisend',
   text0: `
     <p>
-      <b>Minter Multisend</b> это удобная утилита для отправки Multisend транзакций с открытым исходным кодом.
-      Код был проверен Frontend-разработчиком команды Minter
-      <a href="https://github.com/shrpne" target="_blank">Никитой Ейбогом</a> и он не обнаружил
-      явных уязвимостей для утечки seed фразы или приватного ключа.
+      <b>Minter Multisend</b> is a open source utility for sending Multisend transactions.
+      The code was checked by Frontend-developer of the Minter team
+      <a href="https://github.com/shrpne" target="_blank">Nikita Eybog</a> and he did not
+      find any obvious vulnerabilities for the leakage of a seed phrase or a private key.
     </p>
   `,
   text1: `
     <p>
-      <p class="title is-size-6">Назначение</p>
-      Отправка множественных транзакций на разные адреса.
-      Например для кешбека, рассылки награды в конкурсах, отправки денег на свои личные Denarnice.
+      <p class="title is-size-6">Purpose</p>
+      Sending multiple transactions to different addresses.
+      For example, for cashback, sending awards in contests, sending money to your personal wallets.
     </p>
   `,
   text2: `
     <p>
-      <p class="title is-size-6">Возможности утилиты</p>
+      <p class="title is-size-6">Utility Features</p>
       <ul>
-        <li>Авторизация по seed фразе или  приватному ключу</li>
-        <li>Импорт адресов в CSV формате</li>
-        <li>Ручной ввод адресов</li>
-        <li>Отправка в любых доступных монетах, не только в BIP</li>
-        <li>Комиссия за транзакцию в BIP</li>
+        <li>Authorization by seed phrase or private key</li>
+        <li>Import addresses in CSV format</li>
+        <li>Manual addresses input</li>
+        <li>Sending is available in any custom coins, not only in BIP</li>
+        <li>Transaction fee in BIP</li>
       </ul>
     </p>
     <p>
-      <p class="title is-size-6">Как использовать</p>
-      Скачайте архив на свой компьютер, разархивируйте и запустите в браузере файл <b>index.html</b>
+      <p class="title is-size-6">How to use</p>
+      Download the archive to your computer, unzip and run the <b>index.html</b> file in your browser.
     </p>
     <p>
-      <p class="title is-size-6">Безопасность при работе с утилитой</p>
-      Несмотря на то, что код открыт и выполняет только одну функцию — отправку multisend транзакций.
-      И невзирая на то, что код был проанализирован разработчиками Minter.
-      При работе с вашим личным кошельком <b>ВСЕГДА</b> нужно соблюдать меры безопасности.
+      <p class="title is-size-6">Security</p>
+      Despite the fact that the code is open and performs only one function - sending multisend transactions.
+      And despite the fact that the code was analyzed by the developers of Minter.
+      When working with your personal wallet <b>ALWAYS</b> follow security measures.
     </p>
     <p>
       <ul>
-        <li>Создайте отдельный кошелек для отправки Multisend транзакций</li>
-        <li>Держите баланс этого кошелька всегда равным 0 BIP</li>
-        <li>Переводите деньги на кошелек непосредственно перед отправкой Transakcije</li>
+        <li>Create a fresh wallet to send Multisend transactions</li>
+        <li>Always keep the balance of this wallet equal to 0 BIP</li>
+        <li>Transfer money to fresh wallet directly before sending a multisend transaction</li>
         <li>
-          Внимательно проверьте откуда вы скачиваете архив с утилитой.
-          Единственная верная ссылка это
-          <a href="https://github.com/minterscan/minter_multisend" target="_blank">наш профиль на Github</a>.
-          Мы сознательно не сделали онлайн версии, чтобы исключить возможность фишинга.
+          Carefully check where you are downloading the archive with the utility.
+          The only valid link is
+          <a href="https://github.com/minterscan/minter_multisend" target="_blank">our Github profile</a>.
+          We consciously do not make online version to eliminate the possibility of phishing.
         </li>
         <li>
-          Используйте браузер без установленных расширений.
-          Любое расширение, которое требует доступ ко всем вкладкам потенциально может быть опасным.
+          Use a browser without any extensions installed.
+          Any extension that requires access to all tabs can potentially be dangerous.
         </li>
       </ul>
     </p>
   `,
   text3: `
     <p>
-      Код открыт. Приглашаем всех разработчиков проанализировать код и сделать свой вывод о его безопасности.
-      Если вы нашли ошибку — оформляйте pull request на Github.
+      The code is open. We ask all developers to analyze the code and make their conclusion about its security.
+      If you find a mistake, make a pull request on Github.
     </p>
     <p>
-      И да пребудет с вами KARMA 🙏
+      And may the KARMA be with you 🙏
     </p>
   `,
-  buttonLabel0: 'Исходный код',
-  buttonLabel1: 'Скачать утилиту'
+  buttonLabel0: 'Source Code',
+  buttonLabel1: 'Download Tool'
 }

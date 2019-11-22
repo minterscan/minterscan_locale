@@ -1,5 +1,5 @@
 export default {
   title: 'Transakcije',
   from: 'Od',
-  to: 'Do'
+  to: 'Do' 
 }

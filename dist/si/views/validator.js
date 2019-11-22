@@ -8,8 +8,8 @@ exports.default = {
     placeByStake: 'место по стейку',
     coin: 'Urardni kovanec',
     website: 'Spletna stran',
-    slashes: 'Сгорания',
+    slashes: 'Kaznovanja',
     events: 'Dogodki',
-    missedBlocks: 'Zgrrešene Bloke'
+    missedBlocks: 'Zgrešene Bloke'
 };
 //# sourceMappingURL=validator.js.map

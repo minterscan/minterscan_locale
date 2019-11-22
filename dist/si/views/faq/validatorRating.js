@@ -1,40 +1,40 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Рeйтинг валидатора',
-    power: 'Сила голоса',
+    title: 'Validator Rating',
+    power: 'Voting power',
     disclaimer: `
     <img class="minter-guy" src="https://www.minter.network/img/hero-minter.svg" />
-    <p class="title is-size-6">Ключевая идея</p>
+    <p class="title is-size-6">Key Idea</p>
     <p>
-      Minterscan предлагает всем пользователям сети Minter составить честный, прозрачный рейтинг,
-      основанный на симпатии пользователей. Не зависящий от того, насколько давно валидатор работает в сети.
-      Новички тоже имеют право на место вверху таблицы, если они предоставляют первоклассные услуги своим делегаторам.
-      Если делегаторы довольны сервисом — им не составит труда потратить одну Minutу своего времени для голосования.
+      Minterscan propose all users of the Minter network to make an honest, transparent rating,
+      based on user sympathy.
+      Not dependent on how long the validator has been working on the network.
+      Newcomers are also can take first place of the ranking if they provide first-class services to their delegates.
+      If the delegates are satisfied with the service, it will not be difficult for them to spend one minute to vote.
     </p>
-    <p><b>Все данные о валидаторе, включая рейтинг, хранятся в блокчейне</b></p>
+    <p><b>All validator data, including rating, is stored in the blockchain</b></p>
     <p>
-      Голосование осуществляется при помощи <a href="/pco">монеты MSCAN</a>.
-      Если отправитель не является делегатором валидатора, его голос учитываться не будет.
-      Обновление рейтинга происходит моментально.
-      Сила голоса зависит от суммарного стейка делегатора в мастерноде, за которую отдаётся голос,
-      на момент голосования:
+      You can vote with <a href="/pco">MSCAN coin</a>.
+      If the sender is not a validator's delegator, his vote will not be counted.
+      Rating is updated instantly.
+      The vote power depends on the total stake of the delegator in masternode at the time of voting:
     </p>
   `,
     text1: `
-    <p><b>Как проголосовать</b></p>
-    1. Зайдите в <a href="https://console.minter.network/" target="_blank">Minter консоль</a>
-    или откройте мобильный кошелек и отправьте 1 MSCAN на адрес:
+    <p><b>How to vote</b></p>
+    1. Open <a href="https://console.minter.network/" target="_blank">Minter console</a>
+    or your mobile wallet and send 1 MSCAN to address:
   `,
     text2: `
-    2. В поле "Message" впишите публичный ключ валидатора, за которого голосуете.
-    Ключ можно найти <a href="/validators">на этой странице</a>`,
-    table0: `от 100 миллионов BIP`,
-    table1: `от 10 миллионов BIP`,
-    table2: `от миллиона BIP`,
-    table3: `от 100 тысяч BIP`,
-    table4: `от 10 тысяч BIP`,
-    table5: `от 1000 до 10000 BIP`,
-    table6: `менее 1000 BIP`
+    2. "Message" field must be filled with public key of validator you wish to vote for.
+    You can find key on <a href="/validators">this page</a>.`,
+    table0: `from 100 million BIP`,
+    table1: `from 10 million BIP`,
+    table2: `from million BIP`,
+    table3: `from 100 thousands BIP`,
+    table4: `from 10 thousands BIP`,
+    table5: `from 1000 to 10000 BIP`,
+    table6: `less than 1000 BIP`
 };
 //# sourceMappingURL=validatorRating.js.map

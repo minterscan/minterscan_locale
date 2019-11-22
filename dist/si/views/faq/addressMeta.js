@@ -1,45 +1,47 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Профиль на Minterscan',
+    title: 'Minterscan Profile',
     disclaimer: `
     <img class="minter-guy" src="https://www.minter.network/img/hero-minter.svg" />
-    <p class="title is-size-6">Ключевая идея</p>
+    <p class="title is-size-6">Key Idea</p>
     <p>
-      Minterscan дает возможность любому пользователю сети Minter заполнить профиль своего кошелька.
-      Можно заполнить название проекта или имя владельца, иконку, ссылку на сайт, описать о чем ваш проект
-      или для чего предназначен ваш кошелек.
-      Все пользователи сайта увидят информацию о вашем проекте.
-      Пример того, как выглядит заполненный и верифицированный профиль —
-      <a href="/address/Mxffac2e033de7ae840445bad08caa2eb99de76ef2">адрес нашего проекта</a>
+      Minterscan offers any user of Minter network ability to fill information about their profile.
+      It's possible to set the name of your project or owner's name, icon,
+      link to website, describe what your project about
+      or what's the reason why you created this wallet.
+      All users of Minterscan will see information about your wallet.
+      Example of filled and verified wallet —
+      <a href="/address/Mxffac2e033de7ae840445bad08caa2eb99de76ef2">our own address</a>.
     </p>
-    <p><b>Все данные о адресе, включая метаданные, хранятся в блокчейне</b></p>
+    <p><b>All address data, including metadata, is stored in the blockchain</b></p>
     <p>
-      Обновление данных работает при помощи <a href="/pco">монеты MSCAN</a>.
-      Обновлять данные можно бесконечное количество раз. Захотели что-то изменить — отправьте новую транзакцию.
-      Данные на сайте обновляются мгновенно.
+      It works with with <a href="/pco">MSCAN coin</a>.
+      Data can be updated without limiting the number of times.
+      Want to change something? Send a new transaction.<br/>
+      Data on a website is updated instantly.
     </p>
   `,
     text1: `
-    <p><b>Как обновить данные</b></p>
-    1. Зайдите в <a href="https://console.minter.network/" target="_blank">Minter консоль</a>
-    или откройте мобильный кошелек и вставьте адрес получателя:
+    <p><b>How to update data</b></p>
+    1. Open <a href="https://console.minter.network/" target="_blank">Minter console</a>
+    or your mobile wallet and paste following address:
   `,
     text2: `
-    <p>2. Заполните форму, скопируйте весь текст и вставьте его в поле "Message" в консоли:</p>
+    <p>2. Fill the form and copy value from grey box into "Message" field in console:</p>
   `,
-    text3: `Нажмите кнопку чтобы скопировать текст`,
+    text3: `Push the button to copy text`,
     text4: `
-    <p>3. После этого отправьте <b>1 MSCAN</b> на указанный адрес.</p>
-    Если вы уже делегировали любое количество <b>MSCAN</b> в мастерноду <b>Zen</b>, можно отправить 0
-    (будет уплачена только комиссия за транзакцию)
+    <p>3. After this send <b>1 MSCAN</b> to our address.</p>
+    If you're already delegated any amount of <b>MSCAN</b> to <b>Zen</b> masternode,
+    you can send 0 (only transaction fee will be paid)
   `,
     meta: {
-        address: 'Ваш адрес',
-        title: 'Название проекта или ваше имя',
-        icon: 'Ссылка на иконку или фотографию, файл JPG / PNG / GIF',
-        www: 'Ссылка на сайт проекта или ваш профиль в соц. сетях',
-        description: 'Описание проекта или любая другая полезная информация'
+        address: 'Your Address',
+        title: 'Project title or your real name',
+        icon: 'URL to icon or photo, file JPG / PNG / GIF ',
+        www: 'URL to website or social profile',
+        description: 'Project description or any other useful information'
     }
 };
 //# sourceMappingURL=addressMeta.js.map

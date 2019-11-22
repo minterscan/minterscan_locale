@@ -7,7 +7,7 @@ exports.default = {
     profiles: 'Profile',
     coins: 'Kovance',
     validators: 'Potrjevalci',
-    delegators: 'Delegatorji',
+    delegators: 'Delegatori',
     calcs: 'Računalo',
     cats: 'Mucke',
     whales: 'Kiti',

@@ -9,4 +9,4 @@ exports.default = {
     delegated: 'Delegiarno',
     includeDelegations: 'Vključno z delegiranimi'
 };
-//# sourceMappingURL=balance.js.map
+//#  sourceMappingURL=balance.js.map

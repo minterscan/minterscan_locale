@@ -12,5 +12,5 @@ export default {
   edit: 'Urerdi',
   remove: 'Izbriši',
   submit: 'Shrani',
-  cancel: 'Perkliči'
+  cancel: 'Perkliči' 
 }

@@ -1,19 +1,19 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Медиа группа',
-    audience1: 'Наша аудитория',
-    audience2: 'подписчиков',
+    title: 'Media Group',
+    audience1: 'Our audience',
+    audience2: 'subscribers',
     about: `
-    <b>C⭕️INFEED Media</b> - eдиная точка доступа к Minter аудитории.
-    Мы создаем контент - пишем обзоры, статьи,
-    берем интервью, проводим розыгрыши, конкурсы и Airdrop-ы.
-    Размещаем рекламу в каналах и чатах. Делаем так, чтобы о вашем продукте,
-    сервисе или токене узнало как можно больше людей.
-    Стоимость рекламы у нас такая же, как при покупке в каналах напрямую.
-    Просто через нас это делать удобнее.
-    Чтобы заказать рекламу или размещение - свяжитесь с
-    <a href="https://t.me/gorbunov" target="_blank">@gorbunov</a>.
+    <b>C⭕️INFEED Media</b> is a single point of access to Minter audience.
+    We create content - write reviews, articles,
+    interviews, organize challenges, contests and airdrops.
+    We place ads in channels and chat groups.
+    We will provide a wide audience reach for your product, service or token.
+    Advertising cost is the same as when buying in channels directly.
+    It's just easier to do it through us.
+    Feel free to contact us — write a line
+    <a href="https://t.me/gorbunov" target="_blank">@gorbunov</a>
   `
 };
 //# sourceMappingURL=media.js.map

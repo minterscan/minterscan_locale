@@ -1,7 +1,7 @@
 import five from './five'
 import mbank from './mbank'
-import fiveParticipant from './fiveParticipant'
 import tenbip from './tenbip'
+import fiveParticipant from './fiveParticipant'
 
 export default {
   five,

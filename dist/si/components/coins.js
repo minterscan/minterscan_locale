@@ -5,4 +5,4 @@ exports.default = {
     empty0: 'Na tem naslovu ni še kovancev',
     empty1: '💲 Kupiti v BIP Banker'
 };
-//# sourceMappingURL=coins.js.map
+//#  sourceMappingURL=coins.js.map
