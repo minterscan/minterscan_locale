@@ -1,14 +1,14 @@
 export default {
-  title: 'Profiles',
-  howFillProfile: 'How to fill profile',
-  howBecomeVerified: 'How become verified',
-  searchPlaceholder: 'Find by address, name or description',
-  filterAll: 'All',
-  filterVerified: 'Verified',
-  filterTypePersonal: 'Personal',
-  filterTypeBusiness: 'Business',
-  approve: 'Verify',
-  decline: 'Unverify',
-  edit: 'Edit',
-  project: 'Project'
+  title: 'Profile',
+  howFillProfile: 'Kako urediti profil',
+  howBecomeVerified: 'Kako potrditi profil',
+  searchPlaceholder: 'Najti po naslovu, imenu ali opisu',
+  filterAll: 'Vse',
+  filterVerified: 'Potrjene',
+  filterTypePersonal: 'Osebe',
+  filterTypeBusiness: 'Projekte',
+  approve: 'Potrdi',
+  decline: 'Prekliči',
+  edit: 'Uerdi',
+  project: 'Projekt'
 }
