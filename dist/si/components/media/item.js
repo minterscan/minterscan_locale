@@ -11,9 +11,9 @@ exports.default = {
     priceCoin: 'Kovanec',
     priceValue: '1',
     audience: 'Občinstvo',
-    edit: 'Uredi',
+    edit: 'Urerdi',
     remove: 'Izbriši',
     submit: 'Shrani',
-    cancel: 'Prekliči'
+    cancel: 'Perkliči'
 };
 //# sourceMappingURL=item.js.map

@@ -1,1 +1,1 @@
-{"version":3,"file":"cats.js","sourceRoot":"","sources":["../../../src/ru/components/cats.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,QAAQ;IACf,SAAS,EAAE,mCAAmC;IAC9C,SAAS,EAAE,eAAe;CAC3B,CAAA"}
+{"version":3,"file":"cats.js","sourceRoot":"","sources":["../../../src/ua/components/cats.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,QAAQ;IACf,SAAS,EAAE,mCAAmC;IAC9C,SAAS,EAAE,eAAe;CAC3B,CAAA"}

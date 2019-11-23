@@ -1,1 +1,1 @@
-{"version":3,"file":"account.js","sourceRoot":"","sources":["../../../src/ru/views/account.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,SAAS;CACjB,CAAA"}
+{"version":3,"file":"account.js","sourceRoot":"","sources":["../../../src/ua/views/account.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,QAAQ;CAChB,CAAA"}

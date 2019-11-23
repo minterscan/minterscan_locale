@@ -3,4 +3,4 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     title: 'Blok'
 };
-//#  sourceMappingURL=block.js.map
+//# sourceMappingURL=block.js.map

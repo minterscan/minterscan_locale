@@ -12,14 +12,14 @@ exports.default = {
     initialAmount: 'Začetna emisija',
     initialPrice: 'Začetna cena',
     owner: 'Lastnik',
-    validator: 'Validator',
+    validator: 'Potrjevalec',
     price: 'Cena',
     karma: 'Karma',
-    metadataLink: 'Kako spremeniti metapodatke',
+    metadataLink: 'Kako spremeniti metapodatki',
     createdAt: 'Kreirana',
     createdTx: 'Transakcija',
     lifetime: 'Življenska doba',
-    deletedAt: 'Izbrisan',
+    deletedAt: 'Izbrisana ob',
     now: 'Now'
 };
 //# sourceMappingURL=coin.js.map

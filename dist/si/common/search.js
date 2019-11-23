@@ -7,4 +7,4 @@ exports.default = {
     actionButton: 'Takojšnja konvertacija BIP',
     actionButtonDescription: 's pomočjo BTC, ETH ali USDT'
 };
-//#  sourceMappingURL=search.js.map
+//# sourceMappingURL=search.js.map

@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Delegiranje'
+    title: 'Dalegiranje'
 };
-//#  sourceMappingURL=delegations.js.map
+//# sourceMappingURL=delegations.js.map

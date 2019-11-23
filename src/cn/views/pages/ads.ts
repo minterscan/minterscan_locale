@@ -6,7 +6,7 @@ export default {
       <p>
         🍃<b> Minterscan</b> is a most popular Minter blockchain explorer.
         <br>
-        Over 130 000 page views and more than 9 000 unique visitors per month.
+        Over {pageviews} page views and more than {visitors} unique visitors per month.
       </p>
     `,
     text2: `
@@ -21,7 +21,7 @@ export default {
         <a href="{url}">fill the form</a>.
       </p>
       <p>
-        Advertising cost is <b>200 MSCAN</b> per 10% slot.
+        Advertising cost is <b>{websitePrice} MSCAN</b> per 10% slot.
         Promotional materials are displayed in rotation,
         from one advertiser no more than 5 slots (50%) of the total number of impressions.
       </p>
@@ -41,12 +41,12 @@ export default {
       <p>🍃<b> Minterscan</b> in Telegram is a quality posts on relevant topics.</p>
       <p>
         <a href="https://t.me/minterscan" taget="_blank">Russian channel</a> —
-        <b>900</b> real subscribers, post coverage ~ <b>2 000</b>, ERR ~ <b>200%</b>.
+        <b>{ruSubscribers}</b> real subscribers, post coverage ~ <b>{ruCoverage}</b>, ERR ~ <b>{ruErr}%</b>.
         Actual statistics available on
         <a href="https://tgstat.ru/channel/@minterscan" target="_blank">Tgstat.ru</a>
         <br>
         <a href="https://t.me/minterscan_en" taget="_blank">English channel</a> —
-        <b>80</b> real subscribers, post coverage ~ <b>115</b>, ERR ~ <b>140%</b>.
+        <b>{enSubscribers}</b> real subscribers, post coverage ~ <b>{enCoverage}</b>, ERR ~ <b>{enErr}%</b>.
         Actual statistics available on
         <a href="https://tgstat.ru/channel/@minterscan_en" target="_blank">Tgstat.ru</a>
       </p>
@@ -60,10 +60,10 @@ export default {
       <p>
         Advertising cost in
         <a href="https://t.me/minterscan" taget="_blank">russian channel</a>
-        — <b>100 MSCAN</b>.
+        — <b>{ruTelegramPrice} MSCAN</b>.
         Advertising cost in
         <a href="https://t.me/minterscan_en" taget="_blank">english channel</a>
-        — <b>10 MSCAN</b>.
+        — <b>{enTelegramPrice} MSCAN</b>.
       </p>
     `
   },

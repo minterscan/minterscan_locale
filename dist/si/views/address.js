@@ -2,6 +2,6 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     title: 'Naslov',
-    copied: 'Kopirarno!'
+    copied: 'Kopirano!'
 };
-//#  sourceMappingURL=address.js.map
+//# sourceMappingURL=address.js.map

@@ -1,1 +1,1 @@
-{"version":3,"file":"coins.js","sourceRoot":"","sources":["../../../src/ru/views/coins.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,oBAAoB;IAC3B,iBAAiB,EAAE,+BAA+B;IAClD,GAAG,EAAE,eAAe;CACrB,CAAA"}
+{"version":3,"file":"coins.js","sourceRoot":"","sources":["../../../src/si/views/coins.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,wBAAwB;IAC/B,iBAAiB,EAAE,4BAA4B;IAC/C,GAAG,EAAE,gBAAgB;CACtB,CAAA"}

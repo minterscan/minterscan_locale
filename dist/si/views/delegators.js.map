@@ -1,1 +1,1 @@
-{"version":3,"file":"delegators.js","sourceRoot":"","sources":["../../../src/ru/views/delegators.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,YAAY;IACnB,iBAAiB,EAAE,iBAAiB;CACrC,CAAA"}
+{"version":3,"file":"delegators.js","sourceRoot":"","sources":["../../../src/si/views/delegators.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,YAAY;IACnB,iBAAiB,EAAE,cAAc;CAClC,CAAA"}

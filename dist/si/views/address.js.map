@@ -1,1 +1,1 @@
-{"version":3,"file":"address.js","sourceRoot":"","sources":["../../../src/ru/views/address.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,OAAO;IACd,MAAM,EAAE,cAAc;CACvB,CAAA"}
+{"version":3,"file":"address.js","sourceRoot":"","sources":["../../../src/si/views/address.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,QAAQ;IACf,MAAM,EAAE,WAAW;CACpB,CAAA"}

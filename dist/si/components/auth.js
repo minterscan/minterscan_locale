@@ -4,7 +4,7 @@ exports.default = {
     title: 'Dobrodošli',
     signIn: 'Prijava',
     signOut: 'Odjava',
-    account: 'Uporabniški račun',
+    account: 'Račun',
     signInGoogle: 'Prijava z Google'
 };
-//#  sourceMappingURL=auth.js.map
+//# sourceMappingURL=auth.js.map

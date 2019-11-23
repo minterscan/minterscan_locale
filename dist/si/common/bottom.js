@@ -4,9 +4,9 @@ exports.default = {
     pco: 'PCO',
     api: 'API',
     faq: 'FAQ',
-    about_us: 'O projektu',
+    about_us: 'O prrojektu',
     news: 'Telegram',
     ads: 'Reklama',
     credits: 'Zahvale'
 };
-//#  sourceMappingURL=bottom.js.map
+//# sourceMappingURL=bottom.js.map

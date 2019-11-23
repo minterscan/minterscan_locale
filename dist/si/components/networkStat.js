@@ -8,9 +8,9 @@ exports.default = {
     coins: 'Kovance',
     emission: 'Emisija',
     uptime: 'UpTime',
-    status: 'Status omrrežja',
+    status: 'Status omrežja',
     validators: 'Potrjevalci',
     candidates: 'kandidatov',
     commission: 'Povprečna komisija'
 };
-//#  sourceMappingURL=networkStat.js.map
+//# sourceMappingURL=networkStat.js.map

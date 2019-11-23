@@ -1,1 +1,1 @@
-{"version":3,"file":"tx.js","sourceRoot":"","sources":["../../../src/ru/views/tx.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,YAAY;CACpB,CAAA"}
+{"version":3,"file":"tx.js","sourceRoot":"","sources":["../../../src/si/views/tx.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,aAAa;CACrB,CAAA"}

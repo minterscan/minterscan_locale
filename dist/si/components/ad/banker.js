@@ -3,6 +3,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     name: 'Bip Banker',
     text: 'takojšnja konvertacija BIP',
-    actionText: 'Zamenjaj'
+    actionText: 'Konvertiraj'
 };
-//#  sourceMappingURL=banker.js.map
+//# sourceMappingURL=banker.js.map

@@ -13,4 +13,4 @@ exports.default = {
     minutes: 'Minut',
     seconds: 'Sekund'
 };
-//#  sourceMappingURL=date.js.map
+//# sourceMappingURL=date.js.map
