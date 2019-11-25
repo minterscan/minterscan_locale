@@ -6,7 +6,7 @@ export default {
   delegated: 'Делегировано',
   reserve: 'Резерв',
   volume: 'Эмиссия',
-  initialReserve: 'Начальный резев',
+  initialReserve: 'Начальный резерв',
   initialAmount: 'Начальная эмиссия',
   initialPrice: 'Начальная цена',
   owner: 'Владелец',
