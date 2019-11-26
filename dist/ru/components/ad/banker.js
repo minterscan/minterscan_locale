@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     name: 'Bip Banker',
-    text: 'мгновенный обмен BIP',
-    actionText: 'Обменять'
+    text: 'Мгновенный обмен BIP',
+    alt: 'Мгновенный обмен BIP'
 };
 //# sourceMappingURL=banker.js.map

@@ -1,5 +1,5 @@
 export default {
   name: 'Bip Banker',
-  text: 'instant BIP exchange',
-  actionText: 'Try now'
+  text: 'Instant BIP exchange',
+  alt: 'Instant BIP exchange'
 }
