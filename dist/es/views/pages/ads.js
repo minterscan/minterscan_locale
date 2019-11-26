@@ -19,13 +19,8 @@ exports.default = {
         displayed at the top of Minterscan pages.
       </p>
       <p>
-        To advertise your project, please
-        <a href="{url}">fill the form</a>.
-      </p>
-      <p>
+        Promotional materials are displayed in rotation, 10 slots available.
         Advertising cost is <b>{websitePrice} MSCAN</b> per 10% slot.
-        Promotional materials are displayed in rotation,
-        from one advertiser no more than 5 slots (50%) of the total number of impressions.
       </p>
     `,
         example: 'Example',
@@ -74,6 +69,16 @@ exports.default = {
       We do not advertise poor quality projects and reserve
       the right to refuse to advertise without giving reasons.
     </p>
-  `
+  `,
+    contacts: {
+        title: 'Contacts',
+        text: `
+      <p>
+        To advertise your project, please contact us through
+        <a href="{urlTelegram}" target="_blank">Telegram bot</a> or 
+        <a href="{urlForm}" target="_blank">fill the form</a>.
+      </p>
+    `
+    }
 };
 //# sourceMappingURL=ads.js.map
