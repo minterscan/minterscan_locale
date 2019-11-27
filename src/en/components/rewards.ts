@@ -1,4 +1,6 @@
 export default {
   title: 'Rewards',
-  perMinute: 'per minute'
+  perMinute: 'per minute',
+  perHour: 'per hour',
+  perDay: 'per day'
 }

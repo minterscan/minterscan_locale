@@ -1,1 +1,1 @@
-{"version":3,"file":"rewards.js","sourceRoot":"","sources":["../../../src/ua/components/rewards.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,UAAU;IACjB,SAAS,EAAE,WAAW;CACvB,CAAA"}
+{"version":3,"file":"rewards.js","sourceRoot":"","sources":["../../../src/ua/components/rewards.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,UAAU;IACjB,SAAS,EAAE,WAAW;IACtB,OAAO,EAAE,UAAU;IACnB,MAAM,EAAE,QAAQ;CACjB,CAAA"}

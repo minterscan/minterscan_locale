@@ -1,4 +1,6 @@
 export default {
   title: 'Nagrade',
-  perMinute: 'в Minuto' 
+  perMinute: 'na minuto',
+  perHour: 'na uro',
+  perDay: 'na dan'
 }
