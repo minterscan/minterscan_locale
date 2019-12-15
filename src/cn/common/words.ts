@@ -23,7 +23,7 @@ export default {
   slots: '槽',
   height: '区块序号',
   timestamp: '时间',
-  blockTime: '区块创造速度',
+  blockTime: '区块创建速度',
   blockSize: '区块大小',
   reward: '奖赏',
   txs: '交易',

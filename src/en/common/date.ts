@@ -1,6 +1,6 @@
 export default {
   s: 's',
-  in: 'in',
+  in: 'por',
   ago: 'ago',
   years: 'years',
   day: 'Day',
