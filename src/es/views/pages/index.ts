@@ -8,6 +8,5 @@ export default {
   pco,
   ads,
   about,
-  media,
   credits
 }
