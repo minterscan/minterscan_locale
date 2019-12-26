@@ -4,8 +4,6 @@ import fiveParticipant from './fiveParticipant'
 import tenbip from './tenbip'
 
 export default {
-  five,
   mbank,
-  tenbip,
-  fiveParticipant
+  tenbip
 }
