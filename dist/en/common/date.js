@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     s: 's',
-    in: 'in',
+    in: 'por',
     ago: 'ago',
     years: 'years',
     day: 'Day',
