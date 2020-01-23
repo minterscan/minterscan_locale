@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../src/cn/views/blockchain/index.ts"],"names":[],"mappings":";;;AAAA,4DAA2B;AAC3B,kEAAiC;AAEjC,kBAAe;IACb,KAAK,EAAL,eAAK;IACL,QAAQ,EAAR,kBAAQ;CACT,CAAA"}
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../src/cn/views/blockchain/index.ts"],"names":[],"mappings":";;;AAAA,4DAA2B;AAC3B,kEAAiC;AACjC,kEAAiC;AACjC,oEAAmC;AAEnC,kBAAe;IACb,KAAK,EAAL,eAAK;IACL,QAAQ,EAAR,kBAAQ;IACR,QAAQ,EAAR,kBAAQ;IACR,SAAS,EAAT,mBAAS;CACV,CAAA"}
