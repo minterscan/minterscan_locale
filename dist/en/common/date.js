@@ -11,6 +11,7 @@ exports.default = {
     days: 'Days',
     hours: 'Hours',
     minutes: 'Minutes',
-    seconds: 'Seconds'
+    seconds: 'Seconds',
+    today: 'Today'
 };
 //# sourceMappingURL=date.js.map

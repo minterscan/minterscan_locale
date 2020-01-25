@@ -6,5 +6,6 @@ export default {
   days: '天',
   hours: '小时',
   minutes: '分钟',
-  seconds: '秒钟'
+  seconds: '秒钟',
+  today: 'Today'
 }

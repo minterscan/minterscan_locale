@@ -9,5 +9,6 @@ export default {
   days: 'Dni',
   hours: 'Ur',
   minutes: 'Minut',
-  seconds: 'Sekund' 
+  seconds: 'Sekund',
+  today: 'Danes'
 }
