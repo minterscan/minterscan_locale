@@ -1,5 +1,5 @@
 export default {
   name: 'Cash-x-Cash.com',
-  text: 'Sistema de pago rápido Miner Bip',
-  alt: 'Sistema de pago rápido Miner Bip'
+  text: 'Sistema de pago rápido Minter Bip',
+  alt: 'Sistema de pago rápido Minter Bip'
 }
