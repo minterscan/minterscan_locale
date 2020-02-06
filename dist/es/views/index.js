@@ -5,6 +5,7 @@ const tx_1 = tslib_1.__importDefault(require("./tx"));
 const txs_1 = tslib_1.__importDefault(require("./txs"));
 const cats_1 = tslib_1.__importDefault(require("./cats"));
 const auth_1 = tslib_1.__importDefault(require("./auth"));
+const tools_1 = tslib_1.__importDefault(require("./tools"));
 const block_1 = tslib_1.__importDefault(require("./block"));
 const coins_1 = tslib_1.__importDefault(require("./coins"));
 const account_1 = tslib_1.__importDefault(require("./account"));
@@ -24,6 +25,7 @@ exports.default = {
     txs: txs_1.default,
     cats: cats_1.default,
     auth: auth_1.default,
+    tools: tools_1.default,
     block: block_1.default,
     blocks: blocks_1.default,
     coins: coins_1.default,

@@ -3,6 +3,7 @@ import txs from './txs'
 import coin from './coin'
 import cats from './cats'
 import auth from './auth'
+import tools from './tools'
 import block from './block'
 import coins from './coins'
 import account from './account'
@@ -24,6 +25,7 @@ export default {
   coin,
   cats,
   auth,
+  tools,
   block,
   blocks,
   coins,

@@ -10,5 +10,7 @@ export default {
   cats: '猫',
   whales: '鲸鱼',
   validator: 'Zen',
-  vote: 'Vote'
+  vote: 'Vote',
+  tools: '工具类',
+  exchanges: '兑换'
 }

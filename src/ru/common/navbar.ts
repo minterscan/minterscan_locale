@@ -10,5 +10,7 @@ export default {
   cats: 'Котики',
   whales: 'Киты',
   validator: 'Zen',
-  vote: 'Голосование'
+  vote: 'Голосование',
+  tools: 'Сервисы',
+  exchanges: 'Обменные сервисы'
 }

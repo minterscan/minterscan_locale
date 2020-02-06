@@ -12,6 +12,8 @@ exports.default = {
     cats: 'Котики',
     whales: 'Киты',
     validator: 'Zen',
-    vote: 'Голосование'
+    vote: 'Голосование',
+    tools: 'Сервисы',
+    exchanges: 'Обменные сервисы'
 };
 //# sourceMappingURL=navbar.js.map

@@ -10,5 +10,7 @@ export default {
   cats: 'Gatos',
   whales: 'Ballenas',
   validator: 'Zen',
-  vote: 'Vote'
+  vote: 'Vote',
+  tools: 'Herramientas',
+  exchanges: 'Cambiar'
 }
