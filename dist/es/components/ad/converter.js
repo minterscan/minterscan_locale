@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     name: 'Converter.one',
-    text: 'Converting everything!',
-    alt: 'Converting everything!'
+    text: 'BIP Converting',
+    alt: 'BIP Converting'
 };
 //# sourceMappingURL=converter.js.map

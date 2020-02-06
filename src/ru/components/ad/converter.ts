@@ -1,5 +1,5 @@
 export default {
   name: 'Converter.one',
-  text: 'Конвертируется всё!',
-  alt: 'Конвертируется всё!'
+  text: 'Конвертация BIP',
+  alt: 'Конвертация BIP'
 }
