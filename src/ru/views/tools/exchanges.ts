@@ -1,3 +1,6 @@
 export default {
-  title: 'Обменные сервисы'
+  title: 'Обменные сервисы',
+  reserve: 'Резерв',
+  rate: 'Курс',
+  updated: 'Обновление'
 }

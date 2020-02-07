@@ -1,3 +1,6 @@
 export default {
-  title: 'Izmenjave'
+  title: 'Izmenjave',
+  reserve: 'Rezerva',
+  rate: 'Tečaj',
+  updated: 'Posodobljeno'
 }

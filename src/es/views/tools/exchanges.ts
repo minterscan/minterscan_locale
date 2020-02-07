@@ -1,3 +1,6 @@
 export default {
-  title: 'Cambiar'
+  title: 'Cambiar',
+  reserve: 'Reserva',
+  rate: 'Tipo',
+  updated: 'Actualizado'
 }

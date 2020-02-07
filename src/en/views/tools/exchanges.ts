@@ -1,3 +1,6 @@
 export default {
-  title: 'Exchanges'
+  title: 'Exchanges',
+  reserve: 'Reserve',
+  rate: 'Rate',
+  updated: 'Updated'
 }
