@@ -3,7 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     title: 'Cambiar',
     reserve: 'Reserva',
-    rate: 'Tipo',
-    updated: 'Actualizado'
+    rate: 'Mejor oferta',
+    updated: 'Actualizado',
+    notFound: 'No se encontraron ofertas'
 };
 //# sourceMappingURL=exchanges.js.map

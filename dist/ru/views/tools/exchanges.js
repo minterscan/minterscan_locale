@@ -4,6 +4,7 @@ exports.default = {
     title: 'Обменные сервисы',
     reserve: 'Резерв',
     rate: 'Курс',
-    updated: 'Обновление'
+    updated: 'Обновление',
+    notFound: 'Предложений не найдено'
 };
 //# sourceMappingURL=exchanges.js.map

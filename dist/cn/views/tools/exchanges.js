@@ -3,7 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     title: '兑换',
     reserve: 'Reserve',
-    rate: 'Rate',
-    updated: 'Updated'
+    rate: 'Best offer',
+    updated: 'Updated',
+    notFound: 'No available offers found'
 };
 //# sourceMappingURL=exchanges.js.map

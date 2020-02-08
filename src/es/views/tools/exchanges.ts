@@ -1,6 +1,7 @@
 export default {
   title: 'Cambiar',
   reserve: 'Reserva',
-  rate: 'Tipo',
-  updated: 'Actualizado'
+  rate: 'Mejor oferta',
+  updated: 'Actualizado',
+  notFound: 'No se encontraron ofertas'
 }

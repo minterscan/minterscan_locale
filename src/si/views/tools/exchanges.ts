@@ -1,6 +1,7 @@
 export default {
   title: 'Izmenjave',
   reserve: 'Rezerva',
-  rate: 'Tečaj',
-  updated: 'Posodobljeno'
+  rate: 'Najbolša ponudba',
+  updated: 'Posodobljeno',
+  notFound: 'Ni razpoložljivih ponudb'
 }

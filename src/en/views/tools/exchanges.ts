@@ -1,6 +1,7 @@
 export default {
   title: 'Exchanges',
   reserve: 'Reserve',
-  rate: 'Rate',
-  updated: 'Updated'
+  rate: 'Best offer',
+  updated: 'Updated',
+  notFound: 'No available offers found'
 }
