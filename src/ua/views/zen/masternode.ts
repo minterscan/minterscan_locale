@@ -73,8 +73,7 @@ export default {
         <a href="https://minterscan.net" target="_blank">Minterscan</a> и
         <a href="https://minter.wiki" target="_blank">Minter Wiki</a>;
       </li>
-      <li><a href="/cats" target="_blank">Minter котики</a> для всіх делегаторів,
-      коли кількість слотів досягне 1000.</li>
+      <li>100% повернення комісії для делегаторов <b>MINTERCAT</b></li>
     </ul>
   `
 }

@@ -78,10 +78,7 @@ exports.default = {
         <a href="https://minter.wiki" target="_blank">Minter Wiki</a>
         when delegating <b>MSCAN</b> to Zen;
       </li>
-      <li>
-        <a href="/cats" target="_blank">Minter cats</a>
-        to all delegators when masternode will have 1000 filled slots.
-      </li>
+      <li>100% comission cashback for <b>MINTERCAT</b> delegators</li>
     </ul>
   `
 };
