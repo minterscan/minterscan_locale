@@ -1,1 +1,1 @@
-{"version":3,"file":"exchanges.js","sourceRoot":"","sources":["../../../../src/ua/views/tools/exchanges.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,iBAAiB;IACxB,OAAO,EAAE,QAAQ;IACjB,IAAI,EAAE,qBAAqB;IAC3B,OAAO,EAAE,UAAU;IACnB,QAAQ,EAAE,wBAAwB;CACnC,CAAA"}
+{"version":3,"file":"exchanges.js","sourceRoot":"","sources":["../../../../src/ua/views/tools/exchanges.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,iBAAiB;IACxB,OAAO,EAAE,QAAQ;IACjB,IAAI,EAAE,qBAAqB;IAC3B,OAAO,EAAE,UAAU;IACnB,QAAQ,EAAE,wBAAwB;IAClC,UAAU,EAAE,mGAAmG;CAChH,CAAA"}
