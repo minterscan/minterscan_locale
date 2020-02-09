@@ -6,6 +6,6 @@ exports.default = {
     rate: 'Найкраща пропозицiя',
     updated: 'Оновлено',
     notFound: 'Не знайдено пропозицiй',
-    disclaimer: 'Всі дані надані від сторонніх обмінних сервiсiв. Mintersan не несе відповідальності за їх роботу.'
+    disclaimer: 'Всі дані надані від сторонніх обмінних сервiсiв. Minterscan не несе відповідальності за їх роботу.'
 };
 //# sourceMappingURL=exchanges.js.map

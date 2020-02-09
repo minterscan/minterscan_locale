@@ -6,6 +6,6 @@ exports.default = {
     rate: 'Mejor oferta',
     updated: 'Actualizado',
     notFound: 'No se encontraron ofertas',
-    disclaimer: 'Todos los datos provienen de intercambios de terceros. Mintersan no es responsable de la operación de estos servicios.'
+    disclaimer: 'Todos los datos provienen de intercambios de terceros. Minterscan no es responsable de la operación de estos servicios.'
 };
 //# sourceMappingURL=exchanges.js.map

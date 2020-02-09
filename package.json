@@ -1,8 +1,13 @@
 {
   "name": "minterscan_locale",
-  "version": "1.1.19",
+  "version": "1.1.20",
+  "homepage": "https://minterscan.net",
   "description": "Minterscan website localization",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minterscan/minterscan_locale.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
