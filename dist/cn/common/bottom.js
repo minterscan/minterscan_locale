@@ -1,12 +1,31 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    pco: 'PCO',
-    api: 'API',
-    faq: 'FAQ',
-    about_us: '关于项目',
-    news: 'Telegram',
-    ads: 'Advertising',
-    credits: '感谢'
+    poweredBy: 'Powered by Minter',
+    description: 'Minterscan is open Minter explorer. Minter is new generation DPoS blockchain.',
+    links: {
+        company: {
+            title: 'Company',
+            about: '关于项目',
+            pco: 'PCO',
+            ads: 'Advertise',
+            api: 'API',
+            faq: 'FAQ',
+            credits: '感谢',
+        },
+        minter: {
+            title: 'Minter',
+            network: 'Network',
+            status: 'Status',
+            source: 'Source code',
+            wiki: 'Knowledge base'
+        },
+        social: {
+            title: 'Social networks',
+            twitter: 'Twitter',
+            facebook: 'Facebook',
+            telegram: 'Telegram'
+        }
+    }
 };
 //# sourceMappingURL=bottom.js.map

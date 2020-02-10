@@ -1,9 +1,29 @@
 export default {
-  pco: 'PCO',
-  api: 'API',
-  faq: 'FAQ',
-  about_us: 'Sobre nosotros',
-  news: 'Telegram',
-  ads: 'Advertising',
-  credits: 'Créditos'
+  poweredBy: 'Powered by Minter',
+  description: 'Minterscan is open Minter explorer. Minter is new generation DPoS blockchain.',
+  links: {
+    company: {
+      title: 'Company',
+      about: 'Sobre nosotros',
+      pco: 'PCO',
+      ads: 'Advertise',
+      api: 'API',
+      faq: 'FAQ',
+      credits: 'Créditos',
+    },
+    minter: {
+      title: 'Minter',
+      network: 'Network',
+      status: 'Status',
+      source: 'Source code',
+      wiki: 'Knowledge base'
+    },
+    social: {
+      title: 'Social networks',
+      twitter: 'Twitter',
+      facebook: 'Facebook',
+      telegram: 'Telegram'
+    }
+  }
 }
+
