@@ -3,6 +3,8 @@ export default {
   reserve: 'Reserve',
   rate: 'Best offer',
   updated: 'Updated',
+  totalReserve: 'Total',
+  totalOnline: 'servicios en línea',
   notFound: 'No available offers found',
   disclaimer: 'All data provided from third-party exchanges. Minterscan is not responsible for the operation of these services.'
 }
