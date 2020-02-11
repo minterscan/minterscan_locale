@@ -6,7 +6,7 @@ exports.default = {
     rate: 'Best offer',
     updated: 'Updated',
     totalReserve: 'Total',
-    totalOnline: 'servicios en línea',
+    totalOnline: 'en línea',
     notFound: 'No available offers found',
     disclaimer: 'All data provided from third-party exchanges. Minterscan is not responsible for the operation of these services.'
 };

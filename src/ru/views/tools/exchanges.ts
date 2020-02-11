@@ -4,7 +4,7 @@ export default {
   rate: 'Лучшее предложение',
   updated: 'Обновление',
   totalReserve: 'Всего',
-  totalOnline: 'сервиса онлайн',
+  totalOnline: 'онлайн',
   notFound: 'Предложений не найдено',
   disclaimer: 'Все данные предоставлены третьими лицами. Minterscan не несет ответственности за работу этих сервисов.'
 }
