@@ -5,6 +5,7 @@ import btc from './1001btc'
 import banker from './banker'
 import willmint from './willmint'
 import converter from './converter'
+import bipchange from './bipchange'
 
 export default {
   box,
@@ -13,5 +14,6 @@ export default {
   cash,
   banker,
   willmint,
-  converter
+  converter,
+  bipchange
 }
