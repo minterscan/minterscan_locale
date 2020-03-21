@@ -1,4 +1,5 @@
 import box from './box'
+import ktb from './ktb'
 import cash from './cash'
 import bobo from './bobo'
 import btc from './1001btc'
@@ -10,6 +11,7 @@ import bipchange from './bipchange'
 
 export default {
   box,
+  ktb,
   btc,
   bobo,
   cash,
