@@ -10,6 +10,7 @@ export default {
   cats: 'Mucke',
   whales: 'Kiti',
   validator: 'Zen',
+  multisend: 'Multisend',
   vote: 'Glasovanje',
   tools: 'Orodje',
   exchanges: 'Izmenjave'

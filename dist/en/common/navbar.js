@@ -12,6 +12,7 @@ exports.default = {
     cats: 'Cats',
     whales: 'Whales',
     validator: 'Zen',
+    multisend: 'Multisend',
     vote: 'Vote',
     tools: 'Tools',
     exchanges: 'Exchanges'

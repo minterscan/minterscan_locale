@@ -42,12 +42,6 @@ export default {
         <li>Always keep the balance of this wallet equal to 0 BIP</li>
         <li>Transfer money to fresh wallet directly before sending a multisend transaction</li>
         <li>
-          Carefully check where you are downloading the archive with the utility.
-          The only valid link is
-          <a href="https://github.com/minterscan/minter_multisend" target="_blank">our Github profile</a>.
-          We consciously do not make online version to eliminate the possibility of phishing.
-        </li>
-        <li>
           Use a browser without any extensions installed.
           Any extension that requires access to all tabs can potentially be dangerous.
         </li>
@@ -64,5 +58,6 @@ export default {
     </p>
   `,
   buttonLabel0: 'Código fuente',
-  buttonLabel1: 'Descargar herramienta'
+  buttonLabel1: 'Descargar herramienta',
+  buttonLabel2: 'Use Online',
 }

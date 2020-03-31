@@ -12,6 +12,7 @@ exports.default = {
     cats: '猫',
     whales: '鲸鱼',
     validator: 'Zen',
+    multisend: 'Multisend',
     vote: 'Vote',
     tools: '工具类',
     exchanges: '兑换'

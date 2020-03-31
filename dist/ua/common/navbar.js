@@ -12,6 +12,7 @@ exports.default = {
     cats: 'Котики',
     whales: 'Кити',
     validator: 'Zen',
+    multisend: 'Мультiсенд',
     vote: 'Голосування',
     tools: 'Сервiси',
     exchanges: 'Обмiннi сервiси'
