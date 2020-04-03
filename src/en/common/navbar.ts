@@ -1,5 +1,5 @@
 export default {
-  blockchain: 'Blockchain',
+  explorer: 'Explorer',
   blocks: 'Blocks',
   txs: 'Transactions',
   profiles: 'Profiles',

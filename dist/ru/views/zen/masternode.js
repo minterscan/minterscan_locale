@@ -6,7 +6,7 @@ exports.default = {
     title3: 'Надежность и открытость',
     title4: 'Фиксированная комиссия',
     title5: 'Преимущества для делегаторов MSCAN',
-    link0: 'валидатором 1%',
+    link0: 'валидатором ONLY1',
     pubKey: 'Наш публичный ключ',
     collected: 'Собрано',
     status: 'Статус',
@@ -30,7 +30,7 @@ exports.default = {
     команды <b>Minter</b>
     и в сотрудничестве с командой
     <a href="/validator/Mp629b5528f09d1c74a83d18414f2e4263e14850c47a3fac3f855f200111111111" target="_blank">
-      валидатора 1%
+      валидатора ONLY1
     </a>.
   `,
     text2: `
@@ -55,7 +55,7 @@ exports.default = {
     <div>
       <img src="/img/alexey-kanev.jpg">
       <span>
-      <a href="https://t.me/LEXKANEV" target="_blank">Алексей Канев</a> — основатель мастерноды 1%</span>
+      <a href="https://t.me/LEXKANEV" target="_blank">Алексей Канев</a> — основатель мастерноды ONLY1</span>
     </div>
     <div>
       <img src="/img/sergey-saliy.jpg">

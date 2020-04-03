@@ -1,5 +1,5 @@
 export default {
-  blockchain: '区块链',
+  explorer: 'Explorer',
   blocks: '区块',
   txs: '交易',
   profiles: '账号',

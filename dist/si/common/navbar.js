@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    blockchain: 'Blockchain',
+    explorer: 'Explorer',
     blocks: 'Bloke',
     txs: 'Transakcije',
     profiles: 'Profile',

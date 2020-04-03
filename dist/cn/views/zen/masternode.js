@@ -6,7 +6,7 @@ exports.default = {
     title3: '可靠性和开放性',
     title4: '固定手续费',
     title5: 'MSCAN代表的好处',
-    link0: '验证器1%',
+    link0: '验证器ONLY1',
     pubKey: '我们的公共密钥',
     collected: '目前X电子硬币收集',
     status: '状态',
@@ -32,7 +32,7 @@ exports.default = {
     <b>Minter</b> team
     and mainteined by
     <a href="/validator/Mp629b5528f09d1c74a83d18414f2e4263e14850c47a3fac3f855f200111111111" target="_blank">
-      1% validator
+      ONLY1 validator
     </a>team.
   `,
     text2: `
@@ -57,7 +57,7 @@ exports.default = {
       <img src="/img/alexey-kanev.jpg">
       <span>
       <a href="https://t.me/LEXKANEV" target="_blank">Alexey Kanev</a>
-      — founder of 1% masternode</span>
+      — founder of ONLY1 masternode</span>
     </div>
     <div>
       <img src="/img/sergey-saliy.jpg">
