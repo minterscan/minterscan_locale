@@ -9,6 +9,7 @@ import freedom from './freedom'
 import willmint from './willmint'
 import converter from './converter'
 import bipchange from './bipchange'
+import minterium from './minterium'
 
 export default {
   box,
@@ -21,5 +22,6 @@ export default {
   freedom,
   willmint,
   converter,
-  bipchange
+  bipchange,
+  minterium
 }
