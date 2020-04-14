@@ -12,9 +12,9 @@ exports.default = {
     timesLeft: 'Time left',
     howToVote: 'How to Vote',
     howToVoteText: `
-    Send any amount of
+    To vote, send any amount of
     BIP to <a href="/address/{address}" target="_blank">this address</a>.
-    Put in message desired vote variant (described in left block).
+    Put in message desired vote variant.
   `,
     votesFirst: 'YES',
     votesSecond: 'NO',
