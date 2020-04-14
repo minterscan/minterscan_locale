@@ -10,6 +10,7 @@ import willmint from './willmint'
 import converter from './converter'
 import bipchange from './bipchange'
 import minterium from './minterium'
+import bipexchange from './bipexchange'
 
 export default {
   box,
@@ -23,5 +24,6 @@ export default {
   willmint,
   converter,
   bipchange,
-  minterium
+  minterium,
+  bipexchange
 }

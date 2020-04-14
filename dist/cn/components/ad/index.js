@@ -13,6 +13,7 @@ const willmint_1 = tslib_1.__importDefault(require("./willmint"));
 const converter_1 = tslib_1.__importDefault(require("./converter"));
 const bipchange_1 = tslib_1.__importDefault(require("./bipchange"));
 const minterium_1 = tslib_1.__importDefault(require("./minterium"));
+const bipexchange_1 = tslib_1.__importDefault(require("./bipexchange"));
 exports.default = {
     box: box_1.default,
     ktb: ktb_1.default,
@@ -25,6 +26,7 @@ exports.default = {
     willmint: willmint_1.default,
     converter: converter_1.default,
     bipchange: bipchange_1.default,
-    minterium: minterium_1.default
+    minterium: minterium_1.default,
+    bipexchange: bipexchange_1.default
 };
 //# sourceMappingURL=index.js.map
