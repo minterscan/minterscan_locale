@@ -5,6 +5,7 @@ import bobo from './bobo'
 import btc from './1001btc'
 import exbip from './exbip'
 import banker from './banker'
+import bipdex from './bipdex'
 import freedom from './freedom'
 import willmint from './willmint'
 import converter from './converter'
@@ -20,6 +21,7 @@ export default {
   cash,
   exbip,
   banker,
+  bipdex,
   freedom,
   willmint,
   converter,
