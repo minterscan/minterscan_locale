@@ -10,6 +10,7 @@ const exbip_1 = tslib_1.__importDefault(require("./exbip"));
 const banker_1 = tslib_1.__importDefault(require("./banker"));
 const bipdex_1 = tslib_1.__importDefault(require("./bipdex"));
 const freedom_1 = tslib_1.__importDefault(require("./freedom"));
+const kitmoon_1 = tslib_1.__importDefault(require("./kitmoon"));
 const willmint_1 = tslib_1.__importDefault(require("./willmint"));
 const converter_1 = tslib_1.__importDefault(require("./converter"));
 const bipchange_1 = tslib_1.__importDefault(require("./bipchange"));
@@ -25,6 +26,7 @@ exports.default = {
     banker: banker_1.default,
     bipdex: bipdex_1.default,
     freedom: freedom_1.default,
+    kitmoon: kitmoon_1.default,
     willmint: willmint_1.default,
     converter: converter_1.default,
     bipchange: bipchange_1.default,

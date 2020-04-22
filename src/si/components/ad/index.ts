@@ -7,6 +7,7 @@ import exbip from './exbip'
 import banker from './banker'
 import bipdex from './bipdex'
 import freedom from './freedom'
+import kitmoon from './kitmoon'
 import willmint from './willmint'
 import converter from './converter'
 import bipchange from './bipchange'
@@ -23,6 +24,7 @@ export default {
   banker,
   bipdex,
   freedom,
+  kitmoon,
   willmint,
   converter,
   bipchange,
