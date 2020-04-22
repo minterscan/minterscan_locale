@@ -1,7 +1,6 @@
 export default {
   title: 'Perfil de Minterscan',
   disclaimer: `
-    <img class="minter-guy" src="https://www.minter.network/img/hero-minter.svg" />
     <p class="title is-size-6">Key Idea</p>
     <p>
       Minterscan offers any user of Minter network ability to fill information about their profile.
@@ -37,8 +36,8 @@ export default {
   meta: {
     address: 'Su dirección',
     title: 'Título del proyecto o su nombre real',
-    icon: 'URL al icono o foto, archivo JPG / PNG / GIF',
-    www: 'URL del sitio web o perfil social',
+    icon: 'URL al icono o foto, archivo JPG / PNG / GIF / WEBP / SVG',
+    www: 'URL del sitio web o perfil social, required for verification',
     description: 'Descripción del proyecto o cualquier otra información útil'
   }
 }

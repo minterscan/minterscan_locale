@@ -3,7 +3,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     title: 'Minterscan Profile',
     disclaimer: `
-    <img class="minter-guy" src="https://www.minter.network/img/hero-minter.svg" />
     <p class="title is-size-6">Key Idea</p>
     <p>
       Minterscan offers any user of Minter network ability to fill information about their profile.
@@ -39,8 +38,8 @@ exports.default = {
     meta: {
         address: 'Your Address',
         title: 'Project title or your real name',
-        icon: 'URL to icon or photo, file JPG / PNG / GIF ',
-        www: 'URL to website or social profile',
+        icon: 'URL to icon or photo, file JPG / PNG / GIF / WEBP / SVG',
+        www: 'URL to website or social profile, required for verification',
         description: 'Project description or any other useful information'
     }
 };

@@ -1,7 +1,6 @@
 export default {
   title: 'Профиль на Minterscan',
   disclaimer: `
-    <img class="minter-guy" src="https://www.minter.network/img/hero-minter.svg" />
     <p class="title is-size-6">Ключевая идея</p>
     <p>
       Minterscan дает возможность любому пользователю сети Minter заполнить профиль своего кошелька.
@@ -35,8 +34,8 @@ export default {
   meta: {
     address: 'Ваш адрес',
     title: 'Название проекта или ваше имя',
-    icon: 'Ссылка на иконку или фотографию, файл JPG / PNG / GIF',
-    www: 'Ссылка на сайт проекта или ваш профиль в соц. сетях',
+    icon: 'Ссылка на иконку или фотографию, файл JPG / PNG / GIF / WEBP / SVG',
+    www: 'Ссылка на сайт проекта или ваш профиль в соц. сетях, обязательно для верификации',
     description: 'Описание проекта или любая другая полезная информация'
   }
 }

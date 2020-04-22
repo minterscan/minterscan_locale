@@ -1,7 +1,6 @@
 export default {
   title: 'Minterscan的资料',
   disclaimer: `
-    <img class="minter-guy" src="https://www.minter.network/img/hero-minter.svg" />
     <p class="title is-size-6">Key Idea</p>
     <p>
       Minterscan offers any user of Minter network ability to fill information about their profile.
