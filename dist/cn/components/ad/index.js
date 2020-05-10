@@ -3,6 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const tslib_1 = require("tslib");
 const box_1 = tslib_1.__importDefault(require("./box"));
 const ktb_1 = tslib_1.__importDefault(require("./ktb"));
+const mio_1 = tslib_1.__importDefault(require("./mio"));
 const cash_1 = tslib_1.__importDefault(require("./cash"));
 const bobo_1 = tslib_1.__importDefault(require("./bobo"));
 const _1001btc_1 = tslib_1.__importDefault(require("./1001btc"));
@@ -19,6 +20,7 @@ const bipexchange_1 = tslib_1.__importDefault(require("./bipexchange"));
 exports.default = {
     box: box_1.default,
     ktb: ktb_1.default,
+    mio: mio_1.default,
     btc: _1001btc_1.default,
     bobo: bobo_1.default,
     cash: cash_1.default,
