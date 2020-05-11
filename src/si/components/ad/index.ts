@@ -7,6 +7,7 @@ import btc from './1001btc'
 import exbip from './exbip'
 import banker from './banker'
 import bipdex from './bipdex'
+import stellar from './stellar'
 import freedom from './freedom'
 import kitmoon from './kitmoon'
 import willmint from './willmint'
@@ -25,6 +26,7 @@ export default {
   exbip,
   banker,
   bipdex,
+  stellar,
   freedom,
   kitmoon,
   willmint,
