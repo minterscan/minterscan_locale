@@ -2,6 +2,6 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     name: 'Gratz',
-    text: 'Обменник с лучшими курсами и кешбэком до 1%'
+    text: 'Лучшие курсы обмена BIP! Бонусы для партнеров и клиентов'
 };
 //# sourceMappingURL=gratz.js.map
