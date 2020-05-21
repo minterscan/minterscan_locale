@@ -2,6 +2,6 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     name: 'Gratz',
-    text: 'Best BIP Exchange Rates! Bonuses for partners and customers'
+    text: 'Best BIP Exchange Rates!'
 };
 //# sourceMappingURL=gratz.js.map
