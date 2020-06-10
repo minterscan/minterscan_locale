@@ -7,6 +7,7 @@ const mio_1 = tslib_1.__importDefault(require("./mio"));
 const cash_1 = tslib_1.__importDefault(require("./cash"));
 const bobo_1 = tslib_1.__importDefault(require("./bobo"));
 const _1001btc_1 = tslib_1.__importDefault(require("./1001btc"));
+const black_1 = tslib_1.__importDefault(require("./black"));
 const gratz_1 = tslib_1.__importDefault(require("./gratz"));
 const exbip_1 = tslib_1.__importDefault(require("./exbip"));
 const banker_1 = tslib_1.__importDefault(require("./banker"));
@@ -26,6 +27,7 @@ exports.default = {
     btc: _1001btc_1.default,
     bobo: bobo_1.default,
     cash: cash_1.default,
+    black: black_1.default,
     gratz: gratz_1.default,
     exbip: exbip_1.default,
     banker: banker_1.default,

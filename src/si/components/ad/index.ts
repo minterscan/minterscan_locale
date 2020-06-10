@@ -4,6 +4,7 @@ import mio from './mio'
 import cash from './cash'
 import bobo from './bobo'
 import btc from './1001btc'
+import black from './black'
 import gratz from './gratz'
 import exbip from './exbip'
 import banker from './banker'
@@ -24,6 +25,7 @@ export default {
   btc,
   bobo,
   cash,
+  black,
   gratz,
   exbip,
   banker,
