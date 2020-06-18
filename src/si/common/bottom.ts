@@ -1,6 +1,6 @@
 export default {
   poweredBy: 'Powered by Minter',
-  description: 'Minterscan is open Minter explorer. Minter is new generation DPoS blockchain.',
+  description: 'Minterscan is an open Minter network explorer. Minter is a new generation DPoS blockchain.',
   links: {
     company: {
       title: 'Company',
