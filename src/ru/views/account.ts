@@ -1,3 +1,8 @@
 export default {
-  title: 'Аккаунт'
+  title: 'Аккаунт',
+  address: 'Адрес',
+  role: 'Уровень',
+  theme: 'Дизайн',
+  locale: 'Язык',
+  submit: 'Сохранить'
 }

@@ -1,3 +1,8 @@
 export default {
-  title: 'Cuenta'
+  title: 'Cuenta',
+  address: 'Address',
+  role: 'Level',
+  theme: 'Design',
+  locale: 'Language',
+  submit: 'Save'
 }
