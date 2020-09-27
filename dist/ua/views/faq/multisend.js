@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Minter Multisend',
+    title: 'Multisend',
     text0: `
     <p>
       <b>Minter Multisend</b> это удобная утилита для отправки Multisend транзакций с открытым исходным кодом.

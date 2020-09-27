@@ -1,5 +1,5 @@
 export default {
-  title: 'Minter电子钱包的生成器',
+  title: '电子钱包的生成器',
   text0: `
     <p>
       <b>Minter Wallet Generate</b> is a open source utility for Minter wallets generating.

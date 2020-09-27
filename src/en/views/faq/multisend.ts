@@ -1,8 +1,8 @@
 export default {
-  title: 'Minter Multisend',
+  title: 'Multisend',
   text0: `
     <p>
-      <b>Minter Multisend</b> is a open source utility for sending Multisend transactions.
+      <b>Minter Multisend</b> is an open source utility for sending Multisend transactions.
       The code was checked by Frontend-developer of the Minter team
       <a href="https://github.com/shrpne" target="_blank">Nikita Eybog</a> and he did not
       find any obvious vulnerabilities for the leakage of a seed phrase or a private key.
@@ -54,7 +54,7 @@ export default {
       If you find a mistake, make a pull request on Github.
     </p>
     <p>
-      And may the KARMA be with you 🙏
+      And may the Force be with you 🙏
     </p>
   `,
   buttonLabel0: 'Source Code',

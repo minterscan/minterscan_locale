@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
-    title: 'Generador de monederos de Minter',
+    title: 'Generador de monederos',
     text0: `
     <p>
       <b>Minter Wallet Generate</b> is a open source utility for Minter wallets generating.

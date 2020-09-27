@@ -1,5 +1,5 @@
 export default {
-  title: 'Генератор Minter кошельков',
+  title: 'Генератор кошельков',
   text0: `
     <p>
       <b>Minter Wallet Generate</b> это удобная утилита для генерации Minter кошельков с открытым исходным кодом.

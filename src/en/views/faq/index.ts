@@ -2,6 +2,7 @@ import faq from './faq'
 import karma from './karma'
 import coinMeta from './coinMeta'
 import multisend from './multisend'
+import minterLink from './minterLink'
 import verification from './verification'
 import addressMeta from './addressMeta'
 import addressIcons from './addressIcons'
@@ -14,6 +15,7 @@ export default {
   karma,
   coinMeta,
   multisend,
+  minterLink,
   verification,
   addressMeta,
   addressIcons,

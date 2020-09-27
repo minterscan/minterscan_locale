@@ -1,5 +1,5 @@
 export default {
-  title: 'Minter Multisend',
+  title: 'Multisend',
   text0: `
     <p>
       <b>Minter Multisend</b> is a open source utility for sending Multisend transactions.

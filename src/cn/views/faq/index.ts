@@ -4,6 +4,7 @@ import coinMeta from './coinMeta'
 import multisend from './multisend'
 import verification from './verification'
 import addressMeta from './addressMeta'
+import minterLink from './minterLink'
 import addressIcons from './addressIcons'
 import validatorMeta from './validatorMeta'
 import walletGenerate from './walletGenerate'
@@ -14,6 +15,7 @@ export default {
   karma,
   coinMeta,
   multisend,
+  minterLink,
   verification,
   addressMeta,
   addressIcons,
