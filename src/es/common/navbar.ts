@@ -6,6 +6,7 @@ export default {
   coins: 'Monedas',
   validators: 'Validados',
   delegators: 'Delegators',
+  comments: 'Comentarios',
   calcs: 'Calculadora',
   cats: 'Gatos',
   whales: 'Ballenas',

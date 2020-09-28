@@ -8,6 +8,7 @@ exports.default = {
     coins: 'Монеты',
     validators: 'Валидаторы',
     delegators: 'Делегаторы',
+    comments: 'Комментарии',
     calcs: 'Калькулятор',
     cats: 'Котики',
     whales: 'Киты',

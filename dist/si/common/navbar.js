@@ -8,6 +8,7 @@ exports.default = {
     coins: 'Kovance',
     validators: 'Potrjevalci',
     delegators: 'Delegatori',
+    comments: 'Komentarji',
     calcs: 'Računalo',
     cats: 'Mucke',
     whales: 'Kiti',

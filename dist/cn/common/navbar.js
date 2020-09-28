@@ -8,6 +8,7 @@ exports.default = {
     coins: '电子硬币',
     validators: '验证器',
     delegators: 'Delegators',
+    comments: '評論',
     calcs: '计算器',
     cats: '猫',
     whales: '鲸鱼',

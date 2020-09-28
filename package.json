@@ -1,6 +1,6 @@
 {
   "name": "minterscan_locale",
-  "version": "1.1.48",
+  "version": "1.1.49",
   "homepage": "https://minterscan.net",
   "description": "Minterscan website localization",
   "main": "dist/index.js",
