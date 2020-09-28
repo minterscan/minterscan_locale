@@ -1,6 +1,8 @@
 export default {
   title: 'Minter Link',
   buttonLabel0: 'Source Code',
+  notificationTitle: 'Minter Link уже здесь!',
+  notificationButton: 'Что это такое?',
   text0: `
     <p class="title is-size-6">
       Minter Link это кроссбраузерный мультикошелек

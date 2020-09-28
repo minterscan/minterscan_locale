@@ -1,6 +1,8 @@
 export default {
   title: 'Minter Link',
   buttonLabel0: 'Source Code',
+  notificationTitle: 'Minter Link is here!',
+  notificationButton: 'What is this?',
   text0: `
     <p class="title is-size-6">
       Minter Link is a cross-browser multi wallet extension

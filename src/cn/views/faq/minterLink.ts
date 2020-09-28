@@ -1,5 +1,8 @@
 export default {
   title: 'Minter Link',
+  notification: 'What is this?',
+  notificationTitle: 'Minter Link is here!',
+  notificationButton: 'What is this?',
   buttonLabel0: 'Source Code',
   text0: `
     <p class="title is-size-6">

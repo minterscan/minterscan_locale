@@ -2,7 +2,6 @@ export default {
   title: '验证器的评分',
   power: '语音功率',
   disclaimer: `
-    <img class="minter-guy" src="https://www.minter.network/img/hero-minter.svg" />
     <p class="title is-size-6">Key Idea</p>
     <p>
       Minterscan propose all users of the Minter network to make an honest, transparent rating,

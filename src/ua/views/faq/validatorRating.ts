@@ -2,7 +2,6 @@ export default {
   title: 'Рeйтинг валидатора',
   power: 'Сила голоса',
   disclaimer: `
-    <img class="minter-guy" src="https://www.minter.network/img/hero-minter.svg" />
     <p class="title is-size-6">Ключевая идея</p>
     <p>
       Minterscan предлагает всем пользователям сети Minter составить честный, прозрачный рейтинг,
